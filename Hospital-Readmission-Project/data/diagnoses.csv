@@ -1,0 +1,7488 @@
+admission_id,comorbidity
+A000001,Obesity
+A000001,Asthma
+A000002,COPD
+A000004,COPD
+A000004,Heart Disease
+A000006,Renal Disease
+A000007,Obesity
+A000008,Asthma
+A000009,Obesity
+A000009,Hypertension
+A000009,Renal Disease
+A000010,Liver Disease
+A000011,COPD
+A000011,Heart Disease
+A000012,Hypertension
+A000016,Obesity
+A000016,Hypertension
+A000017,Renal Disease
+A000017,Diabetes
+A000017,Asthma
+A000018,Heart Disease
+A000018,COPD
+A000019,Hypertension
+A000019,Renal Disease
+A000020,Diabetes
+A000020,Hypertension
+A000020,Liver Disease
+A000021,Diabetes
+A000021,Heart Disease
+A000021,Liver Disease
+A000022,Heart Disease
+A000023,Heart Disease
+A000023,Diabetes
+A000024,Diabetes
+A000024,Renal Disease
+A000026,Liver Disease
+A000028,Hypertension
+A000029,Asthma
+A000031,Obesity
+A000032,Hypertension
+A000033,Obesity
+A000033,Liver Disease
+A000033,COPD
+A000035,Renal Disease
+A000036,Liver Disease
+A000038,Hypertension
+A000038,Renal Disease
+A000038,Liver Disease
+A000039,Liver Disease
+A000040,Hypertension
+A000040,Renal Disease
+A000040,Diabetes
+A000041,Obesity
+A000041,COPD
+A000041,Diabetes
+A000042,Asthma
+A000042,Renal Disease
+A000042,Heart Disease
+A000043,Diabetes
+A000043,Liver Disease
+A000043,Asthma
+A000045,Asthma
+A000045,Renal Disease
+A000045,COPD
+A000049,Renal Disease
+A000050,Hypertension
+A000050,Heart Disease
+A000051,Obesity
+A000053,Diabetes
+A000054,Liver Disease
+A000054,COPD
+A000055,Heart Disease
+A000055,COPD
+A000055,Obesity
+A000057,Hypertension
+A000058,Liver Disease
+A000059,Heart Disease
+A000059,Hypertension
+A000060,Liver Disease
+A000061,Heart Disease
+A000061,Liver Disease
+A000061,Obesity
+A000062,Diabetes
+A000062,Hypertension
+A000062,Liver Disease
+A000065,Hypertension
+A000065,Heart Disease
+A000066,Diabetes
+A000067,Obesity
+A000067,Asthma
+A000067,Liver Disease
+A000068,Obesity
+A000068,Liver Disease
+A000071,Hypertension
+A000071,COPD
+A000072,Asthma
+A000073,Obesity
+A000073,Hypertension
+A000074,Hypertension
+A000074,Liver Disease
+A000074,Asthma
+A000075,Renal Disease
+A000075,COPD
+A000077,Liver Disease
+A000078,Liver Disease
+A000079,Asthma
+A000079,Obesity
+A000079,Diabetes
+A000080,Liver Disease
+A000080,Diabetes
+A000080,Heart Disease
+A000081,Hypertension
+A000081,Diabetes
+A000081,Heart Disease
+A000085,COPD
+A000085,Asthma
+A000086,Renal Disease
+A000087,Obesity
+A000087,Heart Disease
+A000088,Renal Disease
+A000089,Hypertension
+A000089,Heart Disease
+A000089,Asthma
+A000090,Diabetes
+A000091,Heart Disease
+A000093,Heart Disease
+A000094,Heart Disease
+A000094,Liver Disease
+A000096,Asthma
+A000096,Diabetes
+A000096,COPD
+A000097,Hypertension
+A000097,Diabetes
+A000097,Asthma
+A000102,Hypertension
+A000102,Obesity
+A000103,Renal Disease
+A000104,Asthma
+A000104,Liver Disease
+A000104,Hypertension
+A000105,Heart Disease
+A000105,Renal Disease
+A000105,Liver Disease
+A000106,COPD
+A000107,Asthma
+A000107,Liver Disease
+A000107,Diabetes
+A000108,Heart Disease
+A000108,Obesity
+A000108,Liver Disease
+A000110,COPD
+A000113,COPD
+A000113,Obesity
+A000114,Asthma
+A000114,COPD
+A000114,Liver Disease
+A000115,Liver Disease
+A000116,Obesity
+A000116,Diabetes
+A000117,Renal Disease
+A000117,Hypertension
+A000117,Heart Disease
+A000119,Diabetes
+A000121,Obesity
+A000122,Renal Disease
+A000122,COPD
+A000122,Asthma
+A000123,Heart Disease
+A000123,Asthma
+A000123,Hypertension
+A000124,COPD
+A000124,Obesity
+A000124,Hypertension
+A000125,Obesity
+A000125,COPD
+A000126,Hypertension
+A000126,Renal Disease
+A000126,Obesity
+A000128,Diabetes
+A000129,Renal Disease
+A000130,Hypertension
+A000130,COPD
+A000131,Hypertension
+A000131,Heart Disease
+A000131,COPD
+A000132,Hypertension
+A000132,Obesity
+A000133,Liver Disease
+A000133,Renal Disease
+A000134,Obesity
+A000135,Renal Disease
+A000135,Obesity
+A000135,Asthma
+A000136,Heart Disease
+A000136,Hypertension
+A000136,Obesity
+A000138,Liver Disease
+A000138,Obesity
+A000138,Asthma
+A000139,Hypertension
+A000139,Diabetes
+A000142,Renal Disease
+A000143,Asthma
+A000146,COPD
+A000147,Heart Disease
+A000147,Hypertension
+A000149,Diabetes
+A000151,COPD
+A000151,Renal Disease
+A000151,Hypertension
+A000153,COPD
+A000153,Renal Disease
+A000154,Obesity
+A000154,Asthma
+A000155,Diabetes
+A000155,Obesity
+A000155,Asthma
+A000156,Diabetes
+A000157,Liver Disease
+A000157,Renal Disease
+A000158,Hypertension
+A000158,Diabetes
+A000158,Heart Disease
+A000159,Liver Disease
+A000165,Hypertension
+A000166,Hypertension
+A000166,Heart Disease
+A000167,Liver Disease
+A000167,Renal Disease
+A000169,Asthma
+A000170,Heart Disease
+A000170,Hypertension
+A000170,Obesity
+A000171,Renal Disease
+A000172,Hypertension
+A000172,Liver Disease
+A000173,Liver Disease
+A000173,Renal Disease
+A000173,Diabetes
+A000174,Heart Disease
+A000178,Hypertension
+A000178,Renal Disease
+A000178,COPD
+A000179,Asthma
+A000180,COPD
+A000180,Asthma
+A000180,Diabetes
+A000182,Asthma
+A000183,Liver Disease
+A000183,Diabetes
+A000183,Hypertension
+A000184,Asthma
+A000184,Hypertension
+A000184,Obesity
+A000187,COPD
+A000187,Liver Disease
+A000187,Hypertension
+A000188,Obesity
+A000189,Heart Disease
+A000190,Asthma
+A000190,Diabetes
+A000190,Heart Disease
+A000191,Diabetes
+A000191,Heart Disease
+A000191,COPD
+A000192,Renal Disease
+A000193,Obesity
+A000193,Liver Disease
+A000194,Asthma
+A000194,Diabetes
+A000194,Liver Disease
+A000196,Hypertension
+A000196,Heart Disease
+A000197,Renal Disease
+A000197,COPD
+A000199,Obesity
+A000199,Asthma
+A000199,Renal Disease
+A000200,Renal Disease
+A000200,Obesity
+A000200,Hypertension
+A000201,COPD
+A000201,Renal Disease
+A000203,Hypertension
+A000203,Obesity
+A000203,Liver Disease
+A000204,Diabetes
+A000207,Obesity
+A000207,Renal Disease
+A000207,Asthma
+A000208,Hypertension
+A000208,Obesity
+A000208,Heart Disease
+A000209,Diabetes
+A000209,COPD
+A000209,Hypertension
+A000210,COPD
+A000210,Diabetes
+A000210,Hypertension
+A000211,Obesity
+A000211,Liver Disease
+A000211,Renal Disease
+A000212,Heart Disease
+A000212,Liver Disease
+A000212,Diabetes
+A000213,Obesity
+A000214,Hypertension
+A000217,Hypertension
+A000217,Liver Disease
+A000218,Renal Disease
+A000218,Asthma
+A000218,COPD
+A000220,Obesity
+A000220,Hypertension
+A000220,COPD
+A000222,Obesity
+A000222,Heart Disease
+A000222,Diabetes
+A000223,Liver Disease
+A000223,COPD
+A000224,Diabetes
+A000224,Obesity
+A000224,Renal Disease
+A000225,Diabetes
+A000225,Liver Disease
+A000226,COPD
+A000226,Diabetes
+A000227,COPD
+A000227,Hypertension
+A000228,Heart Disease
+A000231,Diabetes
+A000232,Liver Disease
+A000232,COPD
+A000233,Renal Disease
+A000235,Liver Disease
+A000237,Hypertension
+A000238,Hypertension
+A000239,Diabetes
+A000239,Liver Disease
+A000240,Diabetes
+A000240,Obesity
+A000241,Renal Disease
+A000241,COPD
+A000243,COPD
+A000243,Diabetes
+A000243,Hypertension
+A000244,Hypertension
+A000245,Heart Disease
+A000247,Heart Disease
+A000248,Obesity
+A000248,Liver Disease
+A000251,Heart Disease
+A000251,Liver Disease
+A000252,Renal Disease
+A000252,Diabetes
+A000252,COPD
+A000253,Heart Disease
+A000255,Obesity
+A000255,COPD
+A000255,Diabetes
+A000256,Obesity
+A000257,Liver Disease
+A000257,Renal Disease
+A000258,Renal Disease
+A000258,Hypertension
+A000258,Diabetes
+A000259,Renal Disease
+A000259,Heart Disease
+A000259,Liver Disease
+A000260,Liver Disease
+A000260,Obesity
+A000260,Asthma
+A000261,Liver Disease
+A000261,Diabetes
+A000263,Hypertension
+A000263,Obesity
+A000265,Renal Disease
+A000266,Liver Disease
+A000266,Diabetes
+A000266,Hypertension
+A000267,Heart Disease
+A000268,Diabetes
+A000268,Obesity
+A000269,Obesity
+A000269,COPD
+A000269,Liver Disease
+A000270,Heart Disease
+A000270,Liver Disease
+A000271,Liver Disease
+A000271,Renal Disease
+A000271,Asthma
+A000274,Heart Disease
+A000275,Hypertension
+A000275,Obesity
+A000276,Asthma
+A000278,Liver Disease
+A000278,Asthma
+A000278,Hypertension
+A000280,Liver Disease
+A000281,Hypertension
+A000281,COPD
+A000281,Renal Disease
+A000282,Obesity
+A000282,Heart Disease
+A000282,Liver Disease
+A000283,Diabetes
+A000284,Renal Disease
+A000284,Diabetes
+A000284,Hypertension
+A000285,COPD
+A000285,Heart Disease
+A000289,Asthma
+A000289,Liver Disease
+A000290,Renal Disease
+A000291,Renal Disease
+A000292,Diabetes
+A000295,Asthma
+A000295,Heart Disease
+A000295,Diabetes
+A000297,Heart Disease
+A000298,Hypertension
+A000301,Diabetes
+A000302,Hypertension
+A000303,Heart Disease
+A000304,Liver Disease
+A000305,Hypertension
+A000305,Heart Disease
+A000306,Hypertension
+A000306,Heart Disease
+A000308,Heart Disease
+A000308,Asthma
+A000309,COPD
+A000309,Diabetes
+A000311,Asthma
+A000313,Asthma
+A000313,Liver Disease
+A000313,COPD
+A000315,Renal Disease
+A000316,Obesity
+A000317,Hypertension
+A000317,Diabetes
+A000317,Heart Disease
+A000319,Liver Disease
+A000319,COPD
+A000319,Diabetes
+A000320,Heart Disease
+A000320,Renal Disease
+A000321,Asthma
+A000321,Renal Disease
+A000321,Hypertension
+A000322,COPD
+A000323,Hypertension
+A000323,Heart Disease
+A000324,Diabetes
+A000324,Heart Disease
+A000324,Liver Disease
+A000325,COPD
+A000328,Hypertension
+A000328,COPD
+A000328,Liver Disease
+A000329,Obesity
+A000330,Hypertension
+A000331,Diabetes
+A000332,Asthma
+A000332,COPD
+A000332,Heart Disease
+A000333,Hypertension
+A000334,Diabetes
+A000334,Obesity
+A000335,Asthma
+A000335,Diabetes
+A000335,Obesity
+A000336,Diabetes
+A000336,Liver Disease
+A000336,Asthma
+A000338,Diabetes
+A000339,COPD
+A000339,Asthma
+A000339,Diabetes
+A000340,Liver Disease
+A000342,COPD
+A000342,Liver Disease
+A000343,Diabetes
+A000344,Hypertension
+A000345,Renal Disease
+A000345,COPD
+A000346,COPD
+A000347,COPD
+A000347,Liver Disease
+A000347,Hypertension
+A000348,Liver Disease
+A000348,COPD
+A000348,Heart Disease
+A000350,Heart Disease
+A000351,Diabetes
+A000351,Liver Disease
+A000352,Obesity
+A000353,Diabetes
+A000353,Obesity
+A000354,Heart Disease
+A000354,Asthma
+A000355,Renal Disease
+A000356,Obesity
+A000356,Hypertension
+A000358,Heart Disease
+A000358,Liver Disease
+A000358,COPD
+A000359,COPD
+A000359,Liver Disease
+A000360,Liver Disease
+A000360,Diabetes
+A000360,Heart Disease
+A000361,Obesity
+A000362,Renal Disease
+A000362,Liver Disease
+A000363,Liver Disease
+A000363,Asthma
+A000364,Liver Disease
+A000364,Obesity
+A000365,Heart Disease
+A000365,Hypertension
+A000365,Liver Disease
+A000366,Asthma
+A000366,Obesity
+A000366,Heart Disease
+A000368,Asthma
+A000368,Hypertension
+A000369,Obesity
+A000370,Heart Disease
+A000370,Hypertension
+A000371,Heart Disease
+A000371,Obesity
+A000372,Diabetes
+A000373,Renal Disease
+A000373,Heart Disease
+A000373,Obesity
+A000375,Obesity
+A000376,Liver Disease
+A000376,Hypertension
+A000378,COPD
+A000379,Obesity
+A000379,Diabetes
+A000379,Heart Disease
+A000380,Asthma
+A000380,Diabetes
+A000380,Renal Disease
+A000382,Obesity
+A000382,Hypertension
+A000382,Renal Disease
+A000384,Obesity
+A000384,Liver Disease
+A000384,Heart Disease
+A000385,Heart Disease
+A000386,Diabetes
+A000387,Heart Disease
+A000387,COPD
+A000387,Diabetes
+A000388,Heart Disease
+A000388,Renal Disease
+A000388,Asthma
+A000389,Diabetes
+A000391,COPD
+A000391,Asthma
+A000392,COPD
+A000393,Obesity
+A000393,Asthma
+A000394,Liver Disease
+A000394,Hypertension
+A000395,Renal Disease
+A000395,Heart Disease
+A000395,Obesity
+A000396,COPD
+A000397,Renal Disease
+A000398,Asthma
+A000398,Diabetes
+A000398,Obesity
+A000399,Renal Disease
+A000399,Asthma
+A000399,Diabetes
+A000400,Hypertension
+A000400,Asthma
+A000401,Asthma
+A000403,Diabetes
+A000403,Liver Disease
+A000403,Asthma
+A000405,Hypertension
+A000406,Diabetes
+A000406,Obesity
+A000407,Heart Disease
+A000408,Heart Disease
+A000408,Hypertension
+A000408,Liver Disease
+A000409,Diabetes
+A000410,COPD
+A000410,Asthma
+A000411,Hypertension
+A000416,Liver Disease
+A000417,Hypertension
+A000419,Diabetes
+A000419,Hypertension
+A000421,Liver Disease
+A000422,Diabetes
+A000422,Renal Disease
+A000424,Diabetes
+A000424,Obesity
+A000425,Renal Disease
+A000425,COPD
+A000426,Diabetes
+A000428,Obesity
+A000431,Hypertension
+A000431,Obesity
+A000431,Renal Disease
+A000432,Liver Disease
+A000433,Liver Disease
+A000433,Asthma
+A000434,Diabetes
+A000434,Renal Disease
+A000435,Hypertension
+A000435,Renal Disease
+A000435,Obesity
+A000436,Renal Disease
+A000436,Asthma
+A000436,Diabetes
+A000437,Asthma
+A000438,COPD
+A000438,Heart Disease
+A000438,Asthma
+A000439,Liver Disease
+A000439,Heart Disease
+A000440,Obesity
+A000440,COPD
+A000440,Heart Disease
+A000441,Hypertension
+A000441,COPD
+A000442,Diabetes
+A000443,Diabetes
+A000443,Heart Disease
+A000443,Obesity
+A000445,Liver Disease
+A000447,Renal Disease
+A000447,Obesity
+A000449,Asthma
+A000449,Hypertension
+A000450,Liver Disease
+A000450,Obesity
+A000452,Heart Disease
+A000453,Renal Disease
+A000453,Asthma
+A000453,Obesity
+A000455,Obesity
+A000456,Liver Disease
+A000456,Asthma
+A000457,Asthma
+A000459,Diabetes
+A000460,COPD
+A000460,Heart Disease
+A000460,Hypertension
+A000462,Hypertension
+A000462,COPD
+A000464,Asthma
+A000464,COPD
+A000464,Renal Disease
+A000465,Obesity
+A000465,Hypertension
+A000465,Heart Disease
+A000466,Renal Disease
+A000467,COPD
+A000467,Renal Disease
+A000467,Asthma
+A000468,Renal Disease
+A000468,COPD
+A000468,Liver Disease
+A000469,Heart Disease
+A000470,Hypertension
+A000471,Obesity
+A000471,Diabetes
+A000472,Renal Disease
+A000472,Diabetes
+A000472,Hypertension
+A000474,Obesity
+A000475,Heart Disease
+A000475,Liver Disease
+A000475,Obesity
+A000476,Asthma
+A000476,Obesity
+A000476,Hypertension
+A000477,Asthma
+A000477,Liver Disease
+A000478,Renal Disease
+A000478,Asthma
+A000479,COPD
+A000479,Diabetes
+A000479,Renal Disease
+A000481,Heart Disease
+A000483,Renal Disease
+A000485,COPD
+A000487,Diabetes
+A000489,Diabetes
+A000490,Diabetes
+A000490,Obesity
+A000490,Heart Disease
+A000491,Diabetes
+A000491,Hypertension
+A000494,Obesity
+A000494,Renal Disease
+A000494,Hypertension
+A000495,Heart Disease
+A000495,Diabetes
+A000495,Asthma
+A000497,Hypertension
+A000498,Hypertension
+A000500,Obesity
+A000502,Hypertension
+A000505,Asthma
+A000505,Obesity
+A000505,Diabetes
+A000507,Renal Disease
+A000507,Asthma
+A000507,COPD
+A000508,Renal Disease
+A000508,Diabetes
+A000508,Liver Disease
+A000511,Diabetes
+A000512,Liver Disease
+A000512,COPD
+A000512,Diabetes
+A000513,Renal Disease
+A000513,Diabetes
+A000513,Hypertension
+A000514,Heart Disease
+A000514,Diabetes
+A000516,Heart Disease
+A000516,Hypertension
+A000516,Obesity
+A000518,Asthma
+A000518,COPD
+A000519,COPD
+A000519,Liver Disease
+A000521,Hypertension
+A000521,Obesity
+A000521,Heart Disease
+A000522,Heart Disease
+A000522,Obesity
+A000522,Diabetes
+A000523,Hypertension
+A000523,Obesity
+A000524,Heart Disease
+A000525,Obesity
+A000525,Renal Disease
+A000525,Asthma
+A000526,Liver Disease
+A000526,Hypertension
+A000526,Diabetes
+A000527,Renal Disease
+A000528,Hypertension
+A000528,Heart Disease
+A000529,Diabetes
+A000529,Heart Disease
+A000530,Hypertension
+A000530,Heart Disease
+A000530,Asthma
+A000531,Asthma
+A000531,Liver Disease
+A000532,Hypertension
+A000532,COPD
+A000533,Diabetes
+A000533,COPD
+A000535,Liver Disease
+A000535,Asthma
+A000535,Obesity
+A000537,Obesity
+A000538,Heart Disease
+A000538,Hypertension
+A000539,Renal Disease
+A000540,Diabetes
+A000540,COPD
+A000540,Heart Disease
+A000541,Diabetes
+A000541,Renal Disease
+A000541,Obesity
+A000542,Renal Disease
+A000543,Liver Disease
+A000545,Renal Disease
+A000547,Renal Disease
+A000547,Hypertension
+A000547,COPD
+A000549,Hypertension
+A000549,Renal Disease
+A000549,Asthma
+A000550,Obesity
+A000550,Heart Disease
+A000550,Liver Disease
+A000554,Asthma
+A000555,Hypertension
+A000555,Diabetes
+A000555,COPD
+A000556,Renal Disease
+A000556,Asthma
+A000556,Obesity
+A000557,Diabetes
+A000557,Renal Disease
+A000557,Obesity
+A000558,Liver Disease
+A000558,Obesity
+A000559,Heart Disease
+A000559,Asthma
+A000559,Obesity
+A000560,Diabetes
+A000560,Obesity
+A000562,Heart Disease
+A000562,Renal Disease
+A000564,Hypertension
+A000567,Renal Disease
+A000568,Renal Disease
+A000568,COPD
+A000569,Renal Disease
+A000573,Hypertension
+A000573,Liver Disease
+A000574,Hypertension
+A000574,Obesity
+A000576,Obesity
+A000578,COPD
+A000579,Asthma
+A000580,Heart Disease
+A000580,Renal Disease
+A000580,Liver Disease
+A000582,Heart Disease
+A000582,COPD
+A000582,Obesity
+A000583,Hypertension
+A000584,Renal Disease
+A000584,Asthma
+A000585,Heart Disease
+A000585,Diabetes
+A000586,Diabetes
+A000586,Heart Disease
+A000586,Renal Disease
+A000587,Heart Disease
+A000588,Obesity
+A000588,Renal Disease
+A000588,COPD
+A000590,COPD
+A000590,Asthma
+A000590,Renal Disease
+A000591,Heart Disease
+A000591,Asthma
+A000592,COPD
+A000592,Hypertension
+A000593,Liver Disease
+A000597,Obesity
+A000598,Hypertension
+A000598,Asthma
+A000598,Diabetes
+A000599,Renal Disease
+A000600,Obesity
+A000600,Diabetes
+A000602,COPD
+A000602,Renal Disease
+A000603,Renal Disease
+A000603,Heart Disease
+A000604,COPD
+A000605,Renal Disease
+A000605,Heart Disease
+A000606,Diabetes
+A000606,Heart Disease
+A000607,COPD
+A000608,Renal Disease
+A000608,COPD
+A000608,Obesity
+A000609,Diabetes
+A000609,Liver Disease
+A000609,COPD
+A000610,Hypertension
+A000610,COPD
+A000610,Diabetes
+A000611,Diabetes
+A000611,Renal Disease
+A000611,COPD
+A000612,Obesity
+A000612,Asthma
+A000614,Renal Disease
+A000614,Hypertension
+A000615,COPD
+A000616,COPD
+A000616,Renal Disease
+A000616,Diabetes
+A000618,Heart Disease
+A000618,Renal Disease
+A000619,Heart Disease
+A000619,Liver Disease
+A000620,Asthma
+A000620,Diabetes
+A000621,Diabetes
+A000621,Heart Disease
+A000622,Renal Disease
+A000622,COPD
+A000622,Obesity
+A000624,Asthma
+A000624,Renal Disease
+A000625,Heart Disease
+A000625,COPD
+A000625,Liver Disease
+A000626,Diabetes
+A000626,Asthma
+A000626,Heart Disease
+A000627,Diabetes
+A000627,Obesity
+A000628,Renal Disease
+A000629,Asthma
+A000630,Liver Disease
+A000630,Diabetes
+A000630,Heart Disease
+A000631,COPD
+A000632,Liver Disease
+A000632,Hypertension
+A000632,Heart Disease
+A000634,Obesity
+A000634,Liver Disease
+A000634,Renal Disease
+A000635,Renal Disease
+A000636,COPD
+A000636,Renal Disease
+A000636,Diabetes
+A000637,Obesity
+A000637,Diabetes
+A000639,Obesity
+A000639,Heart Disease
+A000641,Heart Disease
+A000641,Diabetes
+A000641,Liver Disease
+A000642,Asthma
+A000643,Diabetes
+A000643,Heart Disease
+A000644,COPD
+A000644,Hypertension
+A000644,Liver Disease
+A000645,Heart Disease
+A000646,Obesity
+A000646,Heart Disease
+A000647,Heart Disease
+A000647,Diabetes
+A000647,COPD
+A000648,COPD
+A000648,Hypertension
+A000648,Diabetes
+A000649,Heart Disease
+A000649,Hypertension
+A000649,Obesity
+A000650,COPD
+A000650,Liver Disease
+A000651,Obesity
+A000652,Obesity
+A000653,Diabetes
+A000653,Renal Disease
+A000654,COPD
+A000654,Hypertension
+A000655,Asthma
+A000655,Obesity
+A000655,Heart Disease
+A000656,Hypertension
+A000657,Asthma
+A000657,Liver Disease
+A000658,Obesity
+A000658,Renal Disease
+A000659,Obesity
+A000660,Hypertension
+A000661,Hypertension
+A000662,Liver Disease
+A000662,Asthma
+A000662,Diabetes
+A000663,Liver Disease
+A000663,Obesity
+A000664,Asthma
+A000664,Hypertension
+A000664,Renal Disease
+A000665,Heart Disease
+A000667,Diabetes
+A000668,Hypertension
+A000668,COPD
+A000669,Obesity
+A000669,Asthma
+A000670,Obesity
+A000670,COPD
+A000670,Diabetes
+A000673,Hypertension
+A000673,Liver Disease
+A000674,Heart Disease
+A000675,Heart Disease
+A000675,COPD
+A000676,Asthma
+A000676,COPD
+A000676,Diabetes
+A000677,COPD
+A000677,Asthma
+A000677,Renal Disease
+A000678,Asthma
+A000678,Liver Disease
+A000679,Diabetes
+A000679,Asthma
+A000680,Renal Disease
+A000680,Asthma
+A000680,Liver Disease
+A000681,Asthma
+A000681,Obesity
+A000681,Liver Disease
+A000684,COPD
+A000684,Liver Disease
+A000684,Obesity
+A000686,Diabetes
+A000686,Renal Disease
+A000687,Asthma
+A000687,Obesity
+A000687,Hypertension
+A000689,Renal Disease
+A000689,Liver Disease
+A000690,Diabetes
+A000691,Renal Disease
+A000691,Obesity
+A000691,COPD
+A000692,Renal Disease
+A000692,Heart Disease
+A000692,COPD
+A000693,Diabetes
+A000696,Obesity
+A000697,Liver Disease
+A000697,Hypertension
+A000697,COPD
+A000698,Diabetes
+A000701,Renal Disease
+A000701,Obesity
+A000701,Asthma
+A000703,COPD
+A000704,Hypertension
+A000704,Obesity
+A000705,Hypertension
+A000705,COPD
+A000706,Liver Disease
+A000706,Heart Disease
+A000706,Diabetes
+A000707,Obesity
+A000707,Hypertension
+A000708,Asthma
+A000708,Renal Disease
+A000708,Heart Disease
+A000709,Renal Disease
+A000709,Hypertension
+A000709,Liver Disease
+A000710,Obesity
+A000711,Hypertension
+A000711,Obesity
+A000713,COPD
+A000713,Obesity
+A000714,Diabetes
+A000715,Obesity
+A000715,Hypertension
+A000716,Hypertension
+A000716,Diabetes
+A000717,Heart Disease
+A000718,Renal Disease
+A000718,Asthma
+A000718,Hypertension
+A000719,Diabetes
+A000720,Heart Disease
+A000724,Obesity
+A000724,Renal Disease
+A000726,Obesity
+A000726,Renal Disease
+A000727,Renal Disease
+A000729,Obesity
+A000729,Asthma
+A000730,Hypertension
+A000731,Obesity
+A000732,Diabetes
+A000732,Asthma
+A000732,Hypertension
+A000734,Obesity
+A000734,Heart Disease
+A000735,Heart Disease
+A000736,Hypertension
+A000737,Renal Disease
+A000738,Diabetes
+A000738,Renal Disease
+A000738,Hypertension
+A000739,Liver Disease
+A000740,COPD
+A000741,Heart Disease
+A000742,Obesity
+A000742,Liver Disease
+A000742,Diabetes
+A000743,COPD
+A000744,Renal Disease
+A000744,COPD
+A000744,Obesity
+A000745,Asthma
+A000747,Heart Disease
+A000747,Renal Disease
+A000747,Hypertension
+A000748,Asthma
+A000749,Renal Disease
+A000749,Obesity
+A000749,Liver Disease
+A000750,Renal Disease
+A000750,Obesity
+A000752,Hypertension
+A000753,Liver Disease
+A000753,Asthma
+A000754,Diabetes
+A000754,Liver Disease
+A000755,Hypertension
+A000755,Diabetes
+A000755,Renal Disease
+A000756,COPD
+A000758,COPD
+A000759,Heart Disease
+A000759,Obesity
+A000759,Hypertension
+A000760,Renal Disease
+A000760,Heart Disease
+A000760,Liver Disease
+A000761,Renal Disease
+A000761,Heart Disease
+A000761,Asthma
+A000762,Obesity
+A000762,Renal Disease
+A000763,Hypertension
+A000763,Obesity
+A000765,Hypertension
+A000765,COPD
+A000765,Liver Disease
+A000766,Renal Disease
+A000766,Liver Disease
+A000766,Hypertension
+A000767,Heart Disease
+A000767,Hypertension
+A000767,COPD
+A000768,Hypertension
+A000768,Liver Disease
+A000770,Asthma
+A000771,Heart Disease
+A000771,Renal Disease
+A000771,Diabetes
+A000772,Renal Disease
+A000772,Obesity
+A000772,Asthma
+A000773,Diabetes
+A000773,COPD
+A000773,Heart Disease
+A000774,Asthma
+A000775,Obesity
+A000775,Diabetes
+A000775,Hypertension
+A000776,Liver Disease
+A000776,COPD
+A000776,Hypertension
+A000777,Renal Disease
+A000779,Heart Disease
+A000779,Hypertension
+A000780,Obesity
+A000780,Liver Disease
+A000781,Diabetes
+A000781,Renal Disease
+A000781,Heart Disease
+A000783,Asthma
+A000783,Liver Disease
+A000783,Renal Disease
+A000784,COPD
+A000784,Heart Disease
+A000785,Hypertension
+A000785,Diabetes
+A000785,Obesity
+A000786,Heart Disease
+A000786,Asthma
+A000787,Heart Disease
+A000787,Obesity
+A000788,Obesity
+A000792,Asthma
+A000792,Hypertension
+A000794,Asthma
+A000795,Liver Disease
+A000795,Renal Disease
+A000795,COPD
+A000796,Obesity
+A000796,Hypertension
+A000797,Obesity
+A000797,Heart Disease
+A000797,Asthma
+A000799,Hypertension
+A000800,Asthma
+A000800,COPD
+A000800,Renal Disease
+A000801,Asthma
+A000803,COPD
+A000803,Asthma
+A000803,Hypertension
+A000804,Obesity
+A000804,Hypertension
+A000805,Hypertension
+A000805,Heart Disease
+A000806,Liver Disease
+A000806,Hypertension
+A000806,Diabetes
+A000807,Renal Disease
+A000807,Liver Disease
+A000808,Hypertension
+A000809,COPD
+A000809,Asthma
+A000809,Diabetes
+A000810,Liver Disease
+A000811,Heart Disease
+A000812,Diabetes
+A000812,Liver Disease
+A000814,Heart Disease
+A000814,COPD
+A000814,Liver Disease
+A000815,Obesity
+A000815,COPD
+A000816,Asthma
+A000817,Obesity
+A000818,COPD
+A000820,Renal Disease
+A000820,Hypertension
+A000820,Liver Disease
+A000821,Heart Disease
+A000821,Liver Disease
+A000821,Asthma
+A000822,Hypertension
+A000823,COPD
+A000823,Liver Disease
+A000823,Heart Disease
+A000824,Diabetes
+A000824,Heart Disease
+A000824,COPD
+A000825,Diabetes
+A000825,Liver Disease
+A000825,Renal Disease
+A000826,COPD
+A000828,COPD
+A000828,Liver Disease
+A000828,Heart Disease
+A000830,Asthma
+A000830,Hypertension
+A000831,COPD
+A000831,Heart Disease
+A000833,Diabetes
+A000834,Hypertension
+A000836,Asthma
+A000836,COPD
+A000837,COPD
+A000837,Asthma
+A000838,Heart Disease
+A000838,Asthma
+A000838,COPD
+A000840,Obesity
+A000840,Hypertension
+A000840,Heart Disease
+A000841,COPD
+A000842,Heart Disease
+A000842,Obesity
+A000843,Renal Disease
+A000844,Hypertension
+A000846,Diabetes
+A000847,Heart Disease
+A000847,Obesity
+A000848,Obesity
+A000849,Liver Disease
+A000849,Renal Disease
+A000849,Obesity
+A000850,Renal Disease
+A000850,Diabetes
+A000851,Diabetes
+A000851,Asthma
+A000853,COPD
+A000853,Hypertension
+A000853,Asthma
+A000854,Heart Disease
+A000855,Renal Disease
+A000856,Renal Disease
+A000856,Diabetes
+A000856,Heart Disease
+A000857,COPD
+A000857,Heart Disease
+A000858,Renal Disease
+A000859,COPD
+A000859,Liver Disease
+A000859,Heart Disease
+A000860,Heart Disease
+A000860,Renal Disease
+A000862,Asthma
+A000862,Heart Disease
+A000865,Liver Disease
+A000865,Obesity
+A000866,Liver Disease
+A000866,Diabetes
+A000867,Heart Disease
+A000867,Renal Disease
+A000868,Liver Disease
+A000868,COPD
+A000869,COPD
+A000869,Diabetes
+A000870,Hypertension
+A000871,COPD
+A000871,Renal Disease
+A000872,Renal Disease
+A000872,Obesity
+A000872,Diabetes
+A000873,Heart Disease
+A000874,Renal Disease
+A000874,Hypertension
+A000875,Hypertension
+A000875,Liver Disease
+A000875,Obesity
+A000876,Renal Disease
+A000876,Obesity
+A000877,Heart Disease
+A000877,COPD
+A000877,Liver Disease
+A000878,Renal Disease
+A000880,Heart Disease
+A000880,COPD
+A000880,Asthma
+A000881,Liver Disease
+A000881,Obesity
+A000881,COPD
+A000882,Obesity
+A000882,Liver Disease
+A000882,Asthma
+A000883,Obesity
+A000884,Diabetes
+A000884,Liver Disease
+A000885,Hypertension
+A000885,Asthma
+A000885,Renal Disease
+A000886,Diabetes
+A000886,Obesity
+A000887,Liver Disease
+A000887,Heart Disease
+A000887,Diabetes
+A000889,Renal Disease
+A000889,Hypertension
+A000890,Obesity
+A000890,Liver Disease
+A000891,Heart Disease
+A000892,Heart Disease
+A000893,Liver Disease
+A000893,Diabetes
+A000894,Liver Disease
+A000894,Diabetes
+A000894,Obesity
+A000895,Renal Disease
+A000897,Liver Disease
+A000897,Diabetes
+A000898,Liver Disease
+A000898,Diabetes
+A000898,Hypertension
+A000899,Diabetes
+A000900,Renal Disease
+A000900,Hypertension
+A000904,Diabetes
+A000904,Heart Disease
+A000905,Renal Disease
+A000905,Asthma
+A000906,Diabetes
+A000907,Renal Disease
+A000907,COPD
+A000907,Heart Disease
+A000908,COPD
+A000909,Liver Disease
+A000910,Liver Disease
+A000911,Obesity
+A000912,COPD
+A000912,Obesity
+A000912,Renal Disease
+A000913,Diabetes
+A000913,Asthma
+A000913,COPD
+A000914,COPD
+A000914,Obesity
+A000915,Renal Disease
+A000915,Heart Disease
+A000916,Hypertension
+A000917,Obesity
+A000919,Diabetes
+A000919,Hypertension
+A000920,COPD
+A000920,Obesity
+A000922,Asthma
+A000922,Liver Disease
+A000923,Asthma
+A000923,Liver Disease
+A000923,Diabetes
+A000924,Renal Disease
+A000924,Diabetes
+A000925,Renal Disease
+A000925,Hypertension
+A000925,Diabetes
+A000927,Diabetes
+A000927,Hypertension
+A000927,Liver Disease
+A000928,Asthma
+A000928,Obesity
+A000928,Hypertension
+A000930,Diabetes
+A000930,Renal Disease
+A000930,Liver Disease
+A000931,Liver Disease
+A000931,Renal Disease
+A000932,Obesity
+A000933,Obesity
+A000933,Liver Disease
+A000935,Hypertension
+A000936,Renal Disease
+A000936,Asthma
+A000936,Liver Disease
+A000937,Asthma
+A000938,Asthma
+A000938,Renal Disease
+A000939,COPD
+A000940,Asthma
+A000941,Obesity
+A000943,Asthma
+A000943,Heart Disease
+A000944,Hypertension
+A000944,Renal Disease
+A000946,Obesity
+A000947,Hypertension
+A000947,Asthma
+A000947,Heart Disease
+A000949,Liver Disease
+A000949,Renal Disease
+A000950,Hypertension
+A000951,Hypertension
+A000951,Obesity
+A000953,Liver Disease
+A000953,Renal Disease
+A000954,Diabetes
+A000954,COPD
+A000955,Asthma
+A000963,Heart Disease
+A000963,Obesity
+A000963,Liver Disease
+A000964,COPD
+A000964,Renal Disease
+A000964,Heart Disease
+A000965,Obesity
+A000965,Liver Disease
+A000965,COPD
+A000966,Renal Disease
+A000968,COPD
+A000971,COPD
+A000971,Hypertension
+A000971,Renal Disease
+A000972,Diabetes
+A000973,Heart Disease
+A000973,Hypertension
+A000973,Obesity
+A000974,Diabetes
+A000974,Hypertension
+A000974,Renal Disease
+A000975,Hypertension
+A000975,Renal Disease
+A000975,Obesity
+A000977,Diabetes
+A000977,Liver Disease
+A000977,Obesity
+A000979,Heart Disease
+A000980,Asthma
+A000980,Hypertension
+A000980,Obesity
+A000981,Heart Disease
+A000981,Renal Disease
+A000981,Asthma
+A000982,Heart Disease
+A000982,Liver Disease
+A000984,Asthma
+A000984,Liver Disease
+A000985,Obesity
+A000985,Asthma
+A000986,Diabetes
+A000987,COPD
+A000989,Diabetes
+A000989,Renal Disease
+A000989,Obesity
+A000991,Heart Disease
+A000991,Hypertension
+A000991,Liver Disease
+A000993,Obesity
+A000993,Asthma
+A000993,Hypertension
+A000994,Asthma
+A000995,COPD
+A000996,Liver Disease
+A000997,COPD
+A000998,Obesity
+A000998,Heart Disease
+A000998,Asthma
+A000999,COPD
+A000999,Diabetes
+A001001,Liver Disease
+A001001,Hypertension
+A001002,Renal Disease
+A001002,Liver Disease
+A001002,Hypertension
+A001004,Renal Disease
+A001004,Hypertension
+A001005,Diabetes
+A001005,Heart Disease
+A001007,Heart Disease
+A001007,Liver Disease
+A001008,Obesity
+A001008,Asthma
+A001008,Liver Disease
+A001009,Asthma
+A001009,Renal Disease
+A001010,Hypertension
+A001010,Heart Disease
+A001011,Liver Disease
+A001011,Hypertension
+A001011,Renal Disease
+A001012,COPD
+A001012,Diabetes
+A001012,Hypertension
+A001013,Obesity
+A001014,Hypertension
+A001014,Obesity
+A001016,Heart Disease
+A001017,Asthma
+A001019,COPD
+A001020,Heart Disease
+A001020,Diabetes
+A001021,Obesity
+A001022,Hypertension
+A001022,Liver Disease
+A001024,COPD
+A001025,Renal Disease
+A001026,Diabetes
+A001026,Heart Disease
+A001027,Diabetes
+A001027,Asthma
+A001027,Obesity
+A001028,COPD
+A001028,Liver Disease
+A001029,Renal Disease
+A001029,Obesity
+A001030,Diabetes
+A001030,Heart Disease
+A001030,Renal Disease
+A001032,Heart Disease
+A001032,Obesity
+A001033,Heart Disease
+A001033,Obesity
+A001034,Liver Disease
+A001035,Obesity
+A001036,Asthma
+A001036,COPD
+A001036,Hypertension
+A001037,Diabetes
+A001037,Liver Disease
+A001037,Heart Disease
+A001038,Heart Disease
+A001038,Renal Disease
+A001039,Obesity
+A001039,Liver Disease
+A001040,Hypertension
+A001040,Diabetes
+A001040,Liver Disease
+A001041,Obesity
+A001041,Asthma
+A001042,Diabetes
+A001043,Liver Disease
+A001044,Asthma
+A001045,Renal Disease
+A001045,Asthma
+A001045,Obesity
+A001048,Diabetes
+A001048,Liver Disease
+A001048,COPD
+A001049,Hypertension
+A001051,Hypertension
+A001054,Diabetes
+A001054,Heart Disease
+A001054,Obesity
+A001056,COPD
+A001056,Asthma
+A001057,Obesity
+A001057,Hypertension
+A001059,Diabetes
+A001059,Asthma
+A001061,Obesity
+A001061,Heart Disease
+A001062,Liver Disease
+A001064,Obesity
+A001064,Diabetes
+A001065,Renal Disease
+A001068,Liver Disease
+A001068,Renal Disease
+A001068,Hypertension
+A001069,Obesity
+A001070,Obesity
+A001071,Hypertension
+A001071,Asthma
+A001072,Renal Disease
+A001073,Obesity
+A001073,Renal Disease
+A001074,Obesity
+A001074,Asthma
+A001074,Renal Disease
+A001076,Hypertension
+A001077,COPD
+A001077,Diabetes
+A001078,Heart Disease
+A001078,COPD
+A001079,Diabetes
+A001079,COPD
+A001080,Liver Disease
+A001080,Heart Disease
+A001081,COPD
+A001081,Asthma
+A001084,Diabetes
+A001085,Diabetes
+A001085,COPD
+A001086,Heart Disease
+A001086,COPD
+A001087,Renal Disease
+A001087,Liver Disease
+A001088,Renal Disease
+A001089,Asthma
+A001089,COPD
+A001089,Heart Disease
+A001090,Heart Disease
+A001091,Liver Disease
+A001091,Diabetes
+A001091,Heart Disease
+A001092,Heart Disease
+A001092,Obesity
+A001092,Renal Disease
+A001093,Obesity
+A001093,Heart Disease
+A001093,Diabetes
+A001094,COPD
+A001094,Asthma
+A001095,Liver Disease
+A001096,Diabetes
+A001097,COPD
+A001098,COPD
+A001099,Renal Disease
+A001099,Diabetes
+A001100,Heart Disease
+A001101,COPD
+A001101,Heart Disease
+A001101,Obesity
+A001102,Renal Disease
+A001102,Asthma
+A001102,Heart Disease
+A001104,Renal Disease
+A001105,Hypertension
+A001105,Asthma
+A001106,Diabetes
+A001106,Asthma
+A001106,Heart Disease
+A001107,Asthma
+A001107,Hypertension
+A001108,Liver Disease
+A001108,COPD
+A001109,Asthma
+A001109,Heart Disease
+A001109,Liver Disease
+A001112,Renal Disease
+A001112,COPD
+A001113,Renal Disease
+A001113,Hypertension
+A001113,COPD
+A001114,Asthma
+A001114,Obesity
+A001114,Hypertension
+A001115,Asthma
+A001115,Diabetes
+A001117,Asthma
+A001117,Diabetes
+A001118,Heart Disease
+A001120,Heart Disease
+A001120,Hypertension
+A001121,Hypertension
+A001122,Asthma
+A001123,Diabetes
+A001123,Liver Disease
+A001123,COPD
+A001124,Heart Disease
+A001124,Hypertension
+A001124,Diabetes
+A001126,Liver Disease
+A001131,COPD
+A001131,Renal Disease
+A001132,Hypertension
+A001133,Liver Disease
+A001134,Heart Disease
+A001134,Asthma
+A001135,Heart Disease
+A001135,Diabetes
+A001135,COPD
+A001136,Asthma
+A001137,Renal Disease
+A001137,Obesity
+A001137,Hypertension
+A001138,Diabetes
+A001139,COPD
+A001139,Hypertension
+A001139,Heart Disease
+A001140,Renal Disease
+A001140,Heart Disease
+A001140,Obesity
+A001142,Asthma
+A001142,COPD
+A001143,Renal Disease
+A001143,Obesity
+A001145,Hypertension
+A001145,Diabetes
+A001146,Diabetes
+A001147,Obesity
+A001148,Heart Disease
+A001148,Asthma
+A001149,COPD
+A001149,Liver Disease
+A001149,Hypertension
+A001150,Hypertension
+A001150,Obesity
+A001151,Diabetes
+A001154,Liver Disease
+A001154,Obesity
+A001157,Asthma
+A001157,COPD
+A001157,Diabetes
+A001158,COPD
+A001158,Heart Disease
+A001159,Renal Disease
+A001159,Obesity
+A001159,Asthma
+A001160,Liver Disease
+A001160,Diabetes
+A001160,Hypertension
+A001164,Asthma
+A001164,Renal Disease
+A001167,Renal Disease
+A001170,Diabetes
+A001170,Heart Disease
+A001172,Diabetes
+A001172,Obesity
+A001173,Liver Disease
+A001174,Renal Disease
+A001174,Liver Disease
+A001175,Obesity
+A001176,COPD
+A001176,Renal Disease
+A001177,Renal Disease
+A001177,Heart Disease
+A001178,COPD
+A001178,Heart Disease
+A001179,Liver Disease
+A001179,COPD
+A001179,Obesity
+A001180,Asthma
+A001181,Heart Disease
+A001181,COPD
+A001181,Obesity
+A001182,Liver Disease
+A001182,Hypertension
+A001182,COPD
+A001183,Liver Disease
+A001183,Renal Disease
+A001183,Asthma
+A001184,Diabetes
+A001185,Obesity
+A001187,Liver Disease
+A001188,Hypertension
+A001188,Obesity
+A001189,Obesity
+A001189,Heart Disease
+A001189,Renal Disease
+A001191,Heart Disease
+A001191,Renal Disease
+A001191,Diabetes
+A001192,Heart Disease
+A001192,Asthma
+A001193,Obesity
+A001193,Hypertension
+A001195,Hypertension
+A001196,Liver Disease
+A001196,Hypertension
+A001197,Renal Disease
+A001198,Diabetes
+A001198,Liver Disease
+A001198,COPD
+A001199,Liver Disease
+A001199,Obesity
+A001199,Hypertension
+A001202,Diabetes
+A001202,Renal Disease
+A001203,Liver Disease
+A001204,Asthma
+A001204,Liver Disease
+A001204,Heart Disease
+A001205,Hypertension
+A001206,Heart Disease
+A001206,Renal Disease
+A001208,COPD
+A001208,Diabetes
+A001209,Asthma
+A001210,Diabetes
+A001210,Asthma
+A001210,Heart Disease
+A001215,Diabetes
+A001215,Heart Disease
+A001218,Asthma
+A001219,COPD
+A001220,Asthma
+A001220,Liver Disease
+A001220,Obesity
+A001221,Obesity
+A001223,Renal Disease
+A001225,Liver Disease
+A001225,COPD
+A001228,COPD
+A001228,Hypertension
+A001230,Liver Disease
+A001230,COPD
+A001230,Diabetes
+A001231,Renal Disease
+A001231,Heart Disease
+A001232,COPD
+A001232,Heart Disease
+A001233,Obesity
+A001233,Renal Disease
+A001233,Asthma
+A001234,Asthma
+A001234,Renal Disease
+A001235,Diabetes
+A001235,Hypertension
+A001235,Obesity
+A001236,Hypertension
+A001236,Heart Disease
+A001237,Diabetes
+A001237,Hypertension
+A001237,COPD
+A001238,Liver Disease
+A001239,Diabetes
+A001239,Hypertension
+A001240,Diabetes
+A001240,COPD
+A001240,Heart Disease
+A001242,Diabetes
+A001243,COPD
+A001243,Renal Disease
+A001243,Liver Disease
+A001244,Heart Disease
+A001245,Heart Disease
+A001246,Liver Disease
+A001246,Renal Disease
+A001247,Liver Disease
+A001247,Hypertension
+A001248,COPD
+A001248,Diabetes
+A001249,Hypertension
+A001249,Asthma
+A001249,Renal Disease
+A001250,COPD
+A001250,Diabetes
+A001251,Liver Disease
+A001254,Asthma
+A001254,Liver Disease
+A001255,Heart Disease
+A001255,COPD
+A001256,Hypertension
+A001256,Renal Disease
+A001257,Diabetes
+A001258,Heart Disease
+A001258,Renal Disease
+A001259,Hypertension
+A001259,Liver Disease
+A001260,Renal Disease
+A001260,Obesity
+A001260,Hypertension
+A001262,Liver Disease
+A001262,Asthma
+A001262,COPD
+A001263,Heart Disease
+A001264,Renal Disease
+A001264,Hypertension
+A001265,Asthma
+A001265,Diabetes
+A001265,COPD
+A001266,Asthma
+A001266,Renal Disease
+A001266,COPD
+A001267,COPD
+A001267,Diabetes
+A001267,Renal Disease
+A001268,COPD
+A001268,Renal Disease
+A001268,Diabetes
+A001269,Liver Disease
+A001269,Diabetes
+A001271,Asthma
+A001271,Hypertension
+A001271,COPD
+A001272,Hypertension
+A001272,COPD
+A001273,Asthma
+A001273,Obesity
+A001273,Heart Disease
+A001277,Asthma
+A001278,Renal Disease
+A001278,Obesity
+A001278,Diabetes
+A001279,Obesity
+A001281,COPD
+A001281,Obesity
+A001282,Obesity
+A001283,Renal Disease
+A001283,Diabetes
+A001283,COPD
+A001284,Obesity
+A001284,Heart Disease
+A001287,Obesity
+A001287,Hypertension
+A001287,Heart Disease
+A001288,Liver Disease
+A001288,Asthma
+A001288,Obesity
+A001290,Renal Disease
+A001291,Renal Disease
+A001292,Diabetes
+A001292,Renal Disease
+A001293,Diabetes
+A001293,Heart Disease
+A001293,Obesity
+A001297,Obesity
+A001297,COPD
+A001297,Heart Disease
+A001299,COPD
+A001299,Heart Disease
+A001300,Obesity
+A001301,Heart Disease
+A001301,Asthma
+A001301,Hypertension
+A001303,Obesity
+A001304,Heart Disease
+A001304,Liver Disease
+A001305,Hypertension
+A001305,Heart Disease
+A001305,Renal Disease
+A001306,Renal Disease
+A001306,Obesity
+A001307,COPD
+A001307,Liver Disease
+A001308,Diabetes
+A001308,Renal Disease
+A001309,Asthma
+A001310,Renal Disease
+A001311,Heart Disease
+A001311,Obesity
+A001312,COPD
+A001312,Renal Disease
+A001312,Diabetes
+A001313,Renal Disease
+A001313,Asthma
+A001314,Heart Disease
+A001314,Diabetes
+A001314,Obesity
+A001315,COPD
+A001315,Asthma
+A001316,Hypertension
+A001316,Asthma
+A001317,Obesity
+A001317,Liver Disease
+A001317,Hypertension
+A001319,Liver Disease
+A001319,Renal Disease
+A001319,Hypertension
+A001321,Renal Disease
+A001321,COPD
+A001322,Asthma
+A001323,Diabetes
+A001323,Renal Disease
+A001323,COPD
+A001324,Liver Disease
+A001325,Hypertension
+A001326,Asthma
+A001326,COPD
+A001328,Diabetes
+A001329,COPD
+A001329,Heart Disease
+A001329,Liver Disease
+A001331,Liver Disease
+A001331,Obesity
+A001331,Heart Disease
+A001332,Obesity
+A001332,Heart Disease
+A001335,Heart Disease
+A001336,Hypertension
+A001339,Diabetes
+A001339,Liver Disease
+A001340,Heart Disease
+A001340,Liver Disease
+A001340,Renal Disease
+A001341,Hypertension
+A001341,Liver Disease
+A001342,Renal Disease
+A001342,Heart Disease
+A001342,Obesity
+A001344,COPD
+A001344,Heart Disease
+A001345,Renal Disease
+A001345,Heart Disease
+A001346,Obesity
+A001346,Renal Disease
+A001346,COPD
+A001347,Obesity
+A001347,Asthma
+A001347,Liver Disease
+A001348,Asthma
+A001352,Hypertension
+A001353,Diabetes
+A001355,Heart Disease
+A001355,Liver Disease
+A001356,Obesity
+A001356,Liver Disease
+A001357,Heart Disease
+A001358,COPD
+A001358,Renal Disease
+A001358,Diabetes
+A001359,Obesity
+A001361,Obesity
+A001362,Heart Disease
+A001362,Liver Disease
+A001363,Asthma
+A001363,Hypertension
+A001363,COPD
+A001364,Hypertension
+A001364,Asthma
+A001364,Diabetes
+A001366,Obesity
+A001366,Hypertension
+A001367,Hypertension
+A001368,Hypertension
+A001368,Renal Disease
+A001369,Renal Disease
+A001369,Liver Disease
+A001370,Liver Disease
+A001370,Hypertension
+A001371,COPD
+A001371,Diabetes
+A001371,Asthma
+A001372,COPD
+A001372,Renal Disease
+A001375,Hypertension
+A001375,Heart Disease
+A001376,COPD
+A001376,Hypertension
+A001376,Diabetes
+A001377,Renal Disease
+A001378,Diabetes
+A001378,COPD
+A001379,Obesity
+A001381,Asthma
+A001381,Diabetes
+A001381,Heart Disease
+A001382,Obesity
+A001382,Diabetes
+A001382,Liver Disease
+A001383,Obesity
+A001383,Renal Disease
+A001383,Asthma
+A001384,Renal Disease
+A001384,Heart Disease
+A001384,Hypertension
+A001385,Renal Disease
+A001385,Asthma
+A001385,Heart Disease
+A001386,Obesity
+A001386,Liver Disease
+A001388,Obesity
+A001391,Heart Disease
+A001391,COPD
+A001392,Renal Disease
+A001392,Asthma
+A001393,Renal Disease
+A001394,Asthma
+A001395,Asthma
+A001396,Asthma
+A001396,Obesity
+A001399,Asthma
+A001399,Diabetes
+A001400,Obesity
+A001401,COPD
+A001402,Diabetes
+A001404,Diabetes
+A001404,Hypertension
+A001405,Liver Disease
+A001405,Obesity
+A001407,Diabetes
+A001407,Renal Disease
+A001407,Obesity
+A001408,Obesity
+A001408,Asthma
+A001408,COPD
+A001409,Diabetes
+A001409,Asthma
+A001409,Obesity
+A001410,Renal Disease
+A001411,Obesity
+A001411,Hypertension
+A001412,Diabetes
+A001412,Heart Disease
+A001412,Obesity
+A001413,Heart Disease
+A001414,Liver Disease
+A001415,Heart Disease
+A001416,Renal Disease
+A001417,Obesity
+A001417,Hypertension
+A001418,Liver Disease
+A001420,Hypertension
+A001420,Heart Disease
+A001424,Obesity
+A001424,Renal Disease
+A001424,Diabetes
+A001426,Hypertension
+A001426,Diabetes
+A001427,Asthma
+A001427,Renal Disease
+A001427,Obesity
+A001428,COPD
+A001430,COPD
+A001430,Diabetes
+A001433,Heart Disease
+A001434,COPD
+A001434,Hypertension
+A001434,Liver Disease
+A001436,Hypertension
+A001436,Obesity
+A001437,Heart Disease
+A001437,Hypertension
+A001437,Asthma
+A001438,Obesity
+A001438,Heart Disease
+A001439,Hypertension
+A001439,Diabetes
+A001439,Obesity
+A001440,COPD
+A001443,Asthma
+A001443,Heart Disease
+A001444,Asthma
+A001445,Asthma
+A001445,COPD
+A001445,Liver Disease
+A001446,Heart Disease
+A001447,Heart Disease
+A001447,Asthma
+A001448,COPD
+A001448,Liver Disease
+A001449,Obesity
+A001451,Liver Disease
+A001452,Heart Disease
+A001452,Renal Disease
+A001452,Liver Disease
+A001453,Hypertension
+A001453,Asthma
+A001453,Renal Disease
+A001454,COPD
+A001454,Liver Disease
+A001454,Renal Disease
+A001455,Renal Disease
+A001455,Heart Disease
+A001458,Diabetes
+A001461,Obesity
+A001461,COPD
+A001461,Asthma
+A001462,Liver Disease
+A001462,Hypertension
+A001462,Obesity
+A001463,COPD
+A001463,Liver Disease
+A001463,Renal Disease
+A001466,Hypertension
+A001467,Hypertension
+A001467,Asthma
+A001468,Heart Disease
+A001468,Asthma
+A001469,Asthma
+A001469,Hypertension
+A001470,Asthma
+A001471,Obesity
+A001471,Diabetes
+A001471,Hypertension
+A001472,Asthma
+A001472,COPD
+A001473,Asthma
+A001473,Obesity
+A001473,Heart Disease
+A001474,Obesity
+A001475,Liver Disease
+A001475,Heart Disease
+A001475,Diabetes
+A001476,COPD
+A001477,Obesity
+A001477,Liver Disease
+A001478,Renal Disease
+A001479,Asthma
+A001479,Diabetes
+A001480,Heart Disease
+A001480,COPD
+A001481,Renal Disease
+A001481,Asthma
+A001482,Asthma
+A001482,Diabetes
+A001483,Diabetes
+A001483,Asthma
+A001484,Asthma
+A001485,COPD
+A001487,Obesity
+A001487,Asthma
+A001487,Heart Disease
+A001489,Obesity
+A001489,Hypertension
+A001489,COPD
+A001490,Asthma
+A001491,Renal Disease
+A001491,Asthma
+A001492,Asthma
+A001493,Renal Disease
+A001493,Heart Disease
+A001494,Renal Disease
+A001494,Liver Disease
+A001495,Hypertension
+A001496,Asthma
+A001496,Heart Disease
+A001497,Renal Disease
+A001497,Liver Disease
+A001498,Hypertension
+A001498,Heart Disease
+A001498,Obesity
+A001500,Asthma
+A001500,Hypertension
+A001500,Renal Disease
+A001501,Asthma
+A001501,COPD
+A001502,Liver Disease
+A001506,Hypertension
+A001506,Asthma
+A001506,Obesity
+A001507,Diabetes
+A001507,Obesity
+A001509,Heart Disease
+A001509,Diabetes
+A001509,Obesity
+A001510,Obesity
+A001511,Liver Disease
+A001511,Diabetes
+A001511,Renal Disease
+A001512,Heart Disease
+A001512,Asthma
+A001513,Diabetes
+A001513,Liver Disease
+A001513,Renal Disease
+A001515,Diabetes
+A001515,COPD
+A001515,Obesity
+A001519,Obesity
+A001519,Liver Disease
+A001519,Heart Disease
+A001520,COPD
+A001521,Hypertension
+A001521,Heart Disease
+A001522,Obesity
+A001525,Hypertension
+A001525,Diabetes
+A001528,COPD
+A001529,Asthma
+A001531,Heart Disease
+A001532,COPD
+A001532,Hypertension
+A001532,Obesity
+A001534,Asthma
+A001534,Liver Disease
+A001536,Heart Disease
+A001536,Obesity
+A001536,COPD
+A001537,Asthma
+A001537,Heart Disease
+A001537,Hypertension
+A001538,Asthma
+A001538,Obesity
+A001540,Heart Disease
+A001540,Obesity
+A001540,Liver Disease
+A001541,Liver Disease
+A001541,Hypertension
+A001544,Asthma
+A001544,Hypertension
+A001544,Heart Disease
+A001545,Diabetes
+A001545,Asthma
+A001546,Hypertension
+A001547,Heart Disease
+A001548,Renal Disease
+A001549,Heart Disease
+A001549,Asthma
+A001549,Diabetes
+A001550,Obesity
+A001551,Diabetes
+A001551,COPD
+A001554,Asthma
+A001554,Hypertension
+A001555,Hypertension
+A001556,Liver Disease
+A001556,Asthma
+A001557,Heart Disease
+A001557,Asthma
+A001557,Hypertension
+A001558,Asthma
+A001558,Heart Disease
+A001559,Hypertension
+A001560,Heart Disease
+A001560,Hypertension
+A001561,Obesity
+A001561,Asthma
+A001561,Hypertension
+A001562,Asthma
+A001563,Diabetes
+A001564,COPD
+A001565,Renal Disease
+A001566,Obesity
+A001566,Heart Disease
+A001566,Liver Disease
+A001567,Hypertension
+A001567,Renal Disease
+A001567,Liver Disease
+A001569,Hypertension
+A001569,Heart Disease
+A001570,Hypertension
+A001570,Asthma
+A001570,COPD
+A001571,Diabetes
+A001571,Obesity
+A001572,Liver Disease
+A001572,Asthma
+A001573,Renal Disease
+A001576,Renal Disease
+A001576,Heart Disease
+A001576,Liver Disease
+A001577,Heart Disease
+A001577,Diabetes
+A001577,Hypertension
+A001578,Heart Disease
+A001578,Renal Disease
+A001579,Hypertension
+A001580,COPD
+A001581,Heart Disease
+A001582,Renal Disease
+A001583,Renal Disease
+A001583,Diabetes
+A001583,Obesity
+A001584,Diabetes
+A001584,Hypertension
+A001585,Hypertension
+A001586,Liver Disease
+A001586,Renal Disease
+A001586,Heart Disease
+A001588,Asthma
+A001588,Diabetes
+A001591,Asthma
+A001592,Liver Disease
+A001592,Heart Disease
+A001593,Asthma
+A001593,Obesity
+A001593,Renal Disease
+A001594,Liver Disease
+A001594,COPD
+A001595,Obesity
+A001595,Hypertension
+A001596,Asthma
+A001596,Diabetes
+A001597,Renal Disease
+A001600,Diabetes
+A001600,COPD
+A001601,Heart Disease
+A001603,COPD
+A001603,Diabetes
+A001603,Asthma
+A001604,COPD
+A001604,Liver Disease
+A001605,Hypertension
+A001605,COPD
+A001606,Obesity
+A001607,Hypertension
+A001607,Liver Disease
+A001608,Liver Disease
+A001608,Heart Disease
+A001608,COPD
+A001609,Liver Disease
+A001611,Hypertension
+A001613,Asthma
+A001614,Obesity
+A001614,Asthma
+A001615,COPD
+A001616,COPD
+A001618,Diabetes
+A001618,Obesity
+A001618,Heart Disease
+A001619,Heart Disease
+A001619,Diabetes
+A001619,Renal Disease
+A001620,Diabetes
+A001622,Obesity
+A001622,Renal Disease
+A001625,Liver Disease
+A001625,Heart Disease
+A001626,Asthma
+A001627,Asthma
+A001627,Liver Disease
+A001627,Hypertension
+A001628,Diabetes
+A001628,Renal Disease
+A001629,Hypertension
+A001629,Diabetes
+A001629,Liver Disease
+A001631,COPD
+A001631,Liver Disease
+A001631,Hypertension
+A001632,COPD
+A001632,Renal Disease
+A001633,Diabetes
+A001633,COPD
+A001633,Renal Disease
+A001634,Obesity
+A001634,Diabetes
+A001634,Renal Disease
+A001635,Liver Disease
+A001635,Asthma
+A001636,Asthma
+A001636,COPD
+A001636,Hypertension
+A001637,Liver Disease
+A001637,Renal Disease
+A001638,COPD
+A001639,Diabetes
+A001640,Obesity
+A001641,COPD
+A001641,Hypertension
+A001641,Renal Disease
+A001643,Renal Disease
+A001643,Diabetes
+A001644,Hypertension
+A001644,Obesity
+A001645,Heart Disease
+A001645,Hypertension
+A001646,Asthma
+A001646,Hypertension
+A001646,COPD
+A001647,Renal Disease
+A001647,Heart Disease
+A001648,COPD
+A001648,Renal Disease
+A001649,Asthma
+A001649,Heart Disease
+A001649,Liver Disease
+A001650,Liver Disease
+A001650,Hypertension
+A001651,Heart Disease
+A001653,Hypertension
+A001653,Diabetes
+A001654,Liver Disease
+A001654,Asthma
+A001654,Renal Disease
+A001655,Asthma
+A001655,Obesity
+A001655,Renal Disease
+A001656,Diabetes
+A001657,Hypertension
+A001657,Renal Disease
+A001657,Heart Disease
+A001659,Renal Disease
+A001661,Liver Disease
+A001662,Liver Disease
+A001662,Diabetes
+A001662,COPD
+A001665,Hypertension
+A001665,Obesity
+A001665,COPD
+A001666,Diabetes
+A001668,COPD
+A001669,Renal Disease
+A001669,Hypertension
+A001672,Liver Disease
+A001672,Heart Disease
+A001672,Renal Disease
+A001676,Heart Disease
+A001676,Renal Disease
+A001676,Hypertension
+A001677,COPD
+A001677,Hypertension
+A001677,Asthma
+A001678,Renal Disease
+A001678,Asthma
+A001680,Liver Disease
+A001680,Obesity
+A001680,Hypertension
+A001681,Hypertension
+A001681,Renal Disease
+A001681,Liver Disease
+A001682,Diabetes
+A001683,Obesity
+A001683,Asthma
+A001683,Renal Disease
+A001684,Obesity
+A001685,Hypertension
+A001685,Diabetes
+A001685,Heart Disease
+A001686,COPD
+A001687,Renal Disease
+A001688,Obesity
+A001688,COPD
+A001689,Renal Disease
+A001689,Obesity
+A001690,Obesity
+A001690,COPD
+A001690,Asthma
+A001692,Hypertension
+A001692,Liver Disease
+A001693,Diabetes
+A001695,Obesity
+A001697,Heart Disease
+A001697,Hypertension
+A001697,Liver Disease
+A001698,Renal Disease
+A001698,Hypertension
+A001699,Renal Disease
+A001701,Heart Disease
+A001701,Hypertension
+A001701,COPD
+A001702,Renal Disease
+A001702,Asthma
+A001702,COPD
+A001703,Heart Disease
+A001704,COPD
+A001705,Hypertension
+A001706,Obesity
+A001706,Heart Disease
+A001706,Diabetes
+A001707,Hypertension
+A001708,Obesity
+A001708,Diabetes
+A001708,Hypertension
+A001709,Renal Disease
+A001709,Liver Disease
+A001709,Heart Disease
+A001710,Asthma
+A001710,Hypertension
+A001710,Liver Disease
+A001713,Hypertension
+A001713,Asthma
+A001714,Obesity
+A001715,Asthma
+A001716,Asthma
+A001716,Obesity
+A001717,Renal Disease
+A001717,Asthma
+A001717,Liver Disease
+A001718,Hypertension
+A001719,Heart Disease
+A001719,Renal Disease
+A001719,Diabetes
+A001720,Asthma
+A001720,Renal Disease
+A001720,Heart Disease
+A001721,Asthma
+A001722,Hypertension
+A001722,Heart Disease
+A001723,Obesity
+A001723,COPD
+A001724,COPD
+A001725,Hypertension
+A001725,COPD
+A001725,Liver Disease
+A001726,Renal Disease
+A001726,Obesity
+A001726,Hypertension
+A001727,Heart Disease
+A001727,Liver Disease
+A001727,COPD
+A001728,Liver Disease
+A001728,Obesity
+A001729,Obesity
+A001730,Liver Disease
+A001730,Diabetes
+A001732,COPD
+A001732,Obesity
+A001733,Renal Disease
+A001733,Diabetes
+A001735,Renal Disease
+A001735,Diabetes
+A001735,Obesity
+A001736,Obesity
+A001736,Liver Disease
+A001736,Renal Disease
+A001737,Renal Disease
+A001737,COPD
+A001738,Heart Disease
+A001738,Hypertension
+A001739,Renal Disease
+A001739,Asthma
+A001739,Diabetes
+A001741,Heart Disease
+A001742,Liver Disease
+A001742,Asthma
+A001742,Obesity
+A001744,COPD
+A001744,Liver Disease
+A001744,Diabetes
+A001745,Heart Disease
+A001745,Diabetes
+A001745,Obesity
+A001746,COPD
+A001748,Liver Disease
+A001748,Heart Disease
+A001748,Renal Disease
+A001750,Renal Disease
+A001750,Heart Disease
+A001751,Asthma
+A001751,Liver Disease
+A001751,Diabetes
+A001753,Diabetes
+A001755,Diabetes
+A001755,Heart Disease
+A001756,Heart Disease
+A001756,Renal Disease
+A001756,Asthma
+A001757,Obesity
+A001757,COPD
+A001757,Asthma
+A001759,Asthma
+A001759,Heart Disease
+A001759,Diabetes
+A001760,Heart Disease
+A001761,COPD
+A001761,Hypertension
+A001762,Renal Disease
+A001762,Hypertension
+A001762,Heart Disease
+A001764,Hypertension
+A001764,Diabetes
+A001765,Asthma
+A001766,Hypertension
+A001766,Asthma
+A001767,Diabetes
+A001767,Asthma
+A001767,Liver Disease
+A001768,Renal Disease
+A001768,Obesity
+A001769,Diabetes
+A001770,COPD
+A001770,Asthma
+A001771,COPD
+A001771,Asthma
+A001773,Obesity
+A001773,Liver Disease
+A001773,Renal Disease
+A001774,Hypertension
+A001774,Obesity
+A001775,COPD
+A001776,Asthma
+A001777,COPD
+A001777,Renal Disease
+A001777,Liver Disease
+A001779,Liver Disease
+A001779,Asthma
+A001779,Hypertension
+A001780,Renal Disease
+A001780,Heart Disease
+A001781,COPD
+A001781,Renal Disease
+A001781,Liver Disease
+A001783,Asthma
+A001784,Obesity
+A001785,Liver Disease
+A001785,Asthma
+A001787,Diabetes
+A001787,Liver Disease
+A001788,Renal Disease
+A001788,Diabetes
+A001789,Hypertension
+A001789,Diabetes
+A001791,COPD
+A001791,Heart Disease
+A001791,Renal Disease
+A001792,Renal Disease
+A001793,Diabetes
+A001793,Asthma
+A001793,Heart Disease
+A001794,Hypertension
+A001794,Obesity
+A001796,Heart Disease
+A001796,Liver Disease
+A001798,Diabetes
+A001798,Asthma
+A001799,Diabetes
+A001799,Heart Disease
+A001799,Hypertension
+A001800,Obesity
+A001800,Diabetes
+A001801,Liver Disease
+A001802,COPD
+A001803,Renal Disease
+A001803,COPD
+A001804,Heart Disease
+A001805,Renal Disease
+A001805,Asthma
+A001805,Heart Disease
+A001806,Hypertension
+A001806,COPD
+A001807,Asthma
+A001807,COPD
+A001807,Heart Disease
+A001808,Liver Disease
+A001808,Renal Disease
+A001808,Hypertension
+A001809,Hypertension
+A001809,Diabetes
+A001811,Diabetes
+A001811,Hypertension
+A001811,Asthma
+A001812,Renal Disease
+A001812,Heart Disease
+A001812,Obesity
+A001813,Diabetes
+A001814,Renal Disease
+A001814,COPD
+A001815,Renal Disease
+A001816,Diabetes
+A001817,Asthma
+A001817,Liver Disease
+A001817,Heart Disease
+A001818,Hypertension
+A001818,Obesity
+A001819,COPD
+A001819,Asthma
+A001820,Renal Disease
+A001821,Diabetes
+A001822,Renal Disease
+A001823,Hypertension
+A001823,Renal Disease
+A001823,Asthma
+A001824,Liver Disease
+A001825,Liver Disease
+A001825,Hypertension
+A001826,Diabetes
+A001826,Hypertension
+A001827,Renal Disease
+A001827,Liver Disease
+A001828,Asthma
+A001829,Renal Disease
+A001829,Asthma
+A001829,Heart Disease
+A001830,Heart Disease
+A001831,Liver Disease
+A001831,Renal Disease
+A001831,COPD
+A001832,Diabetes
+A001833,Asthma
+A001833,Renal Disease
+A001834,Obesity
+A001834,Asthma
+A001835,COPD
+A001835,Renal Disease
+A001835,Heart Disease
+A001836,Obesity
+A001836,COPD
+A001836,Liver Disease
+A001837,Diabetes
+A001837,Liver Disease
+A001837,Obesity
+A001838,COPD
+A001838,Heart Disease
+A001839,Asthma
+A001839,Obesity
+A001840,COPD
+A001841,Liver Disease
+A001842,Hypertension
+A001842,Asthma
+A001844,Liver Disease
+A001844,Hypertension
+A001846,Heart Disease
+A001846,Renal Disease
+A001847,Obesity
+A001847,Diabetes
+A001847,Asthma
+A001848,Liver Disease
+A001848,Heart Disease
+A001849,Liver Disease
+A001849,Asthma
+A001852,Asthma
+A001852,Renal Disease
+A001852,COPD
+A001853,Hypertension
+A001854,Diabetes
+A001854,COPD
+A001855,Diabetes
+A001855,Asthma
+A001856,Liver Disease
+A001856,Heart Disease
+A001857,COPD
+A001858,COPD
+A001858,Obesity
+A001858,Asthma
+A001859,Obesity
+A001859,Liver Disease
+A001859,Diabetes
+A001861,Heart Disease
+A001861,Liver Disease
+A001861,Hypertension
+A001863,Renal Disease
+A001863,COPD
+A001865,Hypertension
+A001865,Heart Disease
+A001866,Obesity
+A001867,Obesity
+A001868,Diabetes
+A001869,Obesity
+A001870,COPD
+A001872,Hypertension
+A001874,Liver Disease
+A001874,Diabetes
+A001875,Renal Disease
+A001875,Liver Disease
+A001875,Obesity
+A001876,Renal Disease
+A001876,Diabetes
+A001876,Obesity
+A001877,COPD
+A001878,Asthma
+A001878,Hypertension
+A001878,Renal Disease
+A001880,Heart Disease
+A001880,Diabetes
+A001882,Liver Disease
+A001882,Hypertension
+A001882,Renal Disease
+A001886,Renal Disease
+A001886,Hypertension
+A001886,Diabetes
+A001887,Diabetes
+A001887,Liver Disease
+A001887,Heart Disease
+A001890,Renal Disease
+A001891,COPD
+A001892,Asthma
+A001892,Hypertension
+A001892,Liver Disease
+A001893,Liver Disease
+A001894,Liver Disease
+A001894,Asthma
+A001895,Liver Disease
+A001896,Diabetes
+A001897,Liver Disease
+A001899,Diabetes
+A001899,Liver Disease
+A001899,Asthma
+A001900,Liver Disease
+A001900,Hypertension
+A001902,COPD
+A001902,Asthma
+A001903,Liver Disease
+A001903,Heart Disease
+A001903,Asthma
+A001904,COPD
+A001905,Obesity
+A001905,Renal Disease
+A001906,Liver Disease
+A001908,Diabetes
+A001908,Liver Disease
+A001910,Heart Disease
+A001911,COPD
+A001912,Diabetes
+A001912,COPD
+A001913,Liver Disease
+A001913,Diabetes
+A001913,Asthma
+A001914,Hypertension
+A001915,Asthma
+A001915,Heart Disease
+A001915,COPD
+A001916,COPD
+A001916,Hypertension
+A001916,Liver Disease
+A001917,Diabetes
+A001918,Asthma
+A001918,Heart Disease
+A001919,Renal Disease
+A001919,Diabetes
+A001920,Heart Disease
+A001920,Asthma
+A001920,Diabetes
+A001922,Heart Disease
+A001923,Diabetes
+A001923,Heart Disease
+A001924,Heart Disease
+A001924,COPD
+A001924,Renal Disease
+A001925,Heart Disease
+A001926,Heart Disease
+A001926,Hypertension
+A001926,Obesity
+A001928,COPD
+A001928,Renal Disease
+A001928,Hypertension
+A001929,Asthma
+A001929,Liver Disease
+A001929,Heart Disease
+A001930,COPD
+A001931,Obesity
+A001932,Heart Disease
+A001932,Renal Disease
+A001935,Heart Disease
+A001935,Liver Disease
+A001936,Obesity
+A001936,Hypertension
+A001936,Asthma
+A001937,Renal Disease
+A001937,Diabetes
+A001937,Hypertension
+A001938,Asthma
+A001938,Obesity
+A001940,Asthma
+A001940,Heart Disease
+A001940,Obesity
+A001942,Asthma
+A001943,Renal Disease
+A001943,Hypertension
+A001944,Diabetes
+A001946,Heart Disease
+A001947,Renal Disease
+A001947,Diabetes
+A001947,Obesity
+A001949,Diabetes
+A001950,Heart Disease
+A001951,Liver Disease
+A001951,Asthma
+A001953,Asthma
+A001954,Obesity
+A001954,COPD
+A001954,Hypertension
+A001955,Liver Disease
+A001955,Asthma
+A001957,Diabetes
+A001957,Heart Disease
+A001960,Hypertension
+A001961,Diabetes
+A001962,Obesity
+A001963,Hypertension
+A001963,Obesity
+A001963,Liver Disease
+A001966,COPD
+A001966,Asthma
+A001967,Heart Disease
+A001967,COPD
+A001968,Diabetes
+A001969,Diabetes
+A001970,Obesity
+A001971,Hypertension
+A001971,Renal Disease
+A001973,Hypertension
+A001975,Diabetes
+A001975,Renal Disease
+A001975,Heart Disease
+A001977,Hypertension
+A001977,Renal Disease
+A001978,Obesity
+A001979,Renal Disease
+A001980,Liver Disease
+A001980,Diabetes
+A001980,Obesity
+A001981,Hypertension
+A001981,Renal Disease
+A001982,Obesity
+A001982,Liver Disease
+A001982,Renal Disease
+A001983,Hypertension
+A001983,COPD
+A001983,Diabetes
+A001984,Asthma
+A001984,Heart Disease
+A001984,Diabetes
+A001985,Heart Disease
+A001985,Diabetes
+A001985,Hypertension
+A001986,Diabetes
+A001986,Liver Disease
+A001986,Hypertension
+A001987,Heart Disease
+A001988,COPD
+A001988,Diabetes
+A001990,Liver Disease
+A001990,Diabetes
+A001990,Renal Disease
+A001992,Diabetes
+A001993,Obesity
+A001995,COPD
+A001996,Liver Disease
+A001996,Hypertension
+A001996,Diabetes
+A001997,Heart Disease
+A001999,Renal Disease
+A001999,Liver Disease
+A002000,Hypertension
+A002001,Diabetes
+A002002,Liver Disease
+A002002,Renal Disease
+A002003,COPD
+A002003,Heart Disease
+A002004,Obesity
+A002005,Diabetes
+A002006,Liver Disease
+A002006,Obesity
+A002006,COPD
+A002007,Heart Disease
+A002007,Asthma
+A002007,Hypertension
+A002009,Obesity
+A002009,Renal Disease
+A002009,Heart Disease
+A002010,Liver Disease
+A002011,Heart Disease
+A002011,Asthma
+A002011,Hypertension
+A002012,Asthma
+A002012,COPD
+A002012,Obesity
+A002013,COPD
+A002013,Obesity
+A002013,Diabetes
+A002014,Heart Disease
+A002015,Obesity
+A002015,Liver Disease
+A002017,Heart Disease
+A002017,Liver Disease
+A002017,COPD
+A002018,Heart Disease
+A002019,Liver Disease
+A002022,COPD
+A002022,Liver Disease
+A002022,Heart Disease
+A002023,Diabetes
+A002024,Asthma
+A002024,Obesity
+A002024,Liver Disease
+A002025,Diabetes
+A002025,Obesity
+A002025,Heart Disease
+A002026,Hypertension
+A002026,Renal Disease
+A002027,COPD
+A002028,Heart Disease
+A002030,Renal Disease
+A002031,Heart Disease
+A002032,Liver Disease
+A002032,Heart Disease
+A002032,Renal Disease
+A002033,Diabetes
+A002034,Liver Disease
+A002034,COPD
+A002034,Asthma
+A002037,Obesity
+A002037,COPD
+A002038,Liver Disease
+A002038,Hypertension
+A002039,Diabetes
+A002039,Renal Disease
+A002039,Asthma
+A002040,Diabetes
+A002040,Heart Disease
+A002040,COPD
+A002041,Heart Disease
+A002041,Asthma
+A002043,COPD
+A002043,Hypertension
+A002043,Heart Disease
+A002044,Asthma
+A002044,Renal Disease
+A002044,COPD
+A002048,Heart Disease
+A002048,Obesity
+A002048,Renal Disease
+A002050,Obesity
+A002050,Liver Disease
+A002051,Hypertension
+A002051,Obesity
+A002052,COPD
+A002052,Liver Disease
+A002052,Renal Disease
+A002053,COPD
+A002053,Diabetes
+A002053,Asthma
+A002054,Diabetes
+A002054,Asthma
+A002054,Obesity
+A002057,Diabetes
+A002057,Heart Disease
+A002057,Liver Disease
+A002061,COPD
+A002063,Obesity
+A002063,Liver Disease
+A002065,Hypertension
+A002065,Asthma
+A002066,Asthma
+A002066,Hypertension
+A002067,Heart Disease
+A002071,Renal Disease
+A002074,Diabetes
+A002075,COPD
+A002076,Asthma
+A002076,Hypertension
+A002076,Obesity
+A002077,Hypertension
+A002077,Diabetes
+A002078,Asthma
+A002079,Diabetes
+A002079,Obesity
+A002080,Liver Disease
+A002080,Hypertension
+A002081,Diabetes
+A002083,Diabetes
+A002083,Liver Disease
+A002083,Hypertension
+A002084,Liver Disease
+A002084,Diabetes
+A002085,Obesity
+A002085,Renal Disease
+A002086,COPD
+A002086,Liver Disease
+A002088,Asthma
+A002089,Asthma
+A002090,Liver Disease
+A002092,COPD
+A002092,Liver Disease
+A002093,Heart Disease
+A002093,Obesity
+A002094,Asthma
+A002095,Renal Disease
+A002097,Asthma
+A002097,Renal Disease
+A002097,Liver Disease
+A002098,COPD
+A002098,Hypertension
+A002098,Renal Disease
+A002099,Diabetes
+A002100,Diabetes
+A002100,COPD
+A002100,Heart Disease
+A002101,Liver Disease
+A002102,Asthma
+A002102,Hypertension
+A002105,Obesity
+A002105,Heart Disease
+A002105,Liver Disease
+A002106,Diabetes
+A002107,Heart Disease
+A002107,COPD
+A002108,Hypertension
+A002108,COPD
+A002109,Renal Disease
+A002110,Asthma
+A002110,Heart Disease
+A002110,Hypertension
+A002111,Hypertension
+A002113,Asthma
+A002115,Renal Disease
+A002115,Hypertension
+A002116,Heart Disease
+A002116,Diabetes
+A002117,Obesity
+A002119,Heart Disease
+A002119,Asthma
+A002122,Liver Disease
+A002122,Hypertension
+A002122,Diabetes
+A002124,Renal Disease
+A002124,Asthma
+A002125,Renal Disease
+A002125,Liver Disease
+A002125,Heart Disease
+A002126,Heart Disease
+A002126,COPD
+A002126,Renal Disease
+A002129,Diabetes
+A002130,Asthma
+A002130,Diabetes
+A002130,COPD
+A002132,Heart Disease
+A002132,Asthma
+A002133,Heart Disease
+A002134,COPD
+A002134,Renal Disease
+A002134,Hypertension
+A002137,Heart Disease
+A002137,Obesity
+A002139,Obesity
+A002139,Asthma
+A002140,COPD
+A002140,Hypertension
+A002140,Heart Disease
+A002141,Obesity
+A002142,Renal Disease
+A002142,Liver Disease
+A002143,Obesity
+A002143,Heart Disease
+A002143,Diabetes
+A002145,Renal Disease
+A002145,Asthma
+A002146,COPD
+A002146,Renal Disease
+A002147,Asthma
+A002149,Diabetes
+A002149,Hypertension
+A002149,Renal Disease
+A002150,Obesity
+A002150,Hypertension
+A002151,Asthma
+A002152,Heart Disease
+A002152,Renal Disease
+A002154,Liver Disease
+A002155,Hypertension
+A002155,Heart Disease
+A002155,COPD
+A002156,Renal Disease
+A002156,COPD
+A002156,Asthma
+A002157,Asthma
+A002157,Diabetes
+A002159,Asthma
+A002159,Diabetes
+A002160,Heart Disease
+A002162,Renal Disease
+A002162,Diabetes
+A002163,Asthma
+A002163,Diabetes
+A002164,Asthma
+A002165,Asthma
+A002165,Liver Disease
+A002165,Renal Disease
+A002167,Renal Disease
+A002167,Heart Disease
+A002167,Diabetes
+A002169,COPD
+A002169,Obesity
+A002169,Liver Disease
+A002170,Asthma
+A002170,Diabetes
+A002170,Hypertension
+A002171,Liver Disease
+A002172,Heart Disease
+A002172,Obesity
+A002172,Renal Disease
+A002173,Obesity
+A002173,Asthma
+A002174,Obesity
+A002174,Asthma
+A002174,Heart Disease
+A002175,COPD
+A002175,Renal Disease
+A002175,Asthma
+A002176,Renal Disease
+A002176,COPD
+A002178,Diabetes
+A002178,Asthma
+A002178,Liver Disease
+A002180,Hypertension
+A002183,Obesity
+A002184,COPD
+A002184,Renal Disease
+A002184,Hypertension
+A002185,COPD
+A002185,Obesity
+A002186,Liver Disease
+A002186,Heart Disease
+A002186,Renal Disease
+A002187,Liver Disease
+A002187,COPD
+A002187,Heart Disease
+A002189,Diabetes
+A002189,Heart Disease
+A002190,Obesity
+A002191,Obesity
+A002191,Diabetes
+A002192,Obesity
+A002193,Renal Disease
+A002193,Hypertension
+A002194,Diabetes
+A002194,Heart Disease
+A002195,Diabetes
+A002196,Diabetes
+A002196,Asthma
+A002197,Renal Disease
+A002199,Diabetes
+A002200,Hypertension
+A002200,Liver Disease
+A002200,Asthma
+A002201,Renal Disease
+A002204,Hypertension
+A002205,Obesity
+A002207,Diabetes
+A002208,Diabetes
+A002210,Hypertension
+A002210,Obesity
+A002210,Renal Disease
+A002212,Hypertension
+A002212,Liver Disease
+A002212,Asthma
+A002213,Asthma
+A002213,Liver Disease
+A002214,Renal Disease
+A002214,Obesity
+A002214,Hypertension
+A002215,Liver Disease
+A002215,Obesity
+A002215,Diabetes
+A002217,Liver Disease
+A002219,Obesity
+A002219,Diabetes
+A002219,Liver Disease
+A002220,Diabetes
+A002220,Asthma
+A002220,Liver Disease
+A002221,Asthma
+A002221,Obesity
+A002222,Obesity
+A002223,Obesity
+A002223,COPD
+A002226,Heart Disease
+A002227,Renal Disease
+A002228,Asthma
+A002228,COPD
+A002228,Obesity
+A002229,COPD
+A002230,Liver Disease
+A002231,Liver Disease
+A002231,COPD
+A002231,Asthma
+A002232,Liver Disease
+A002232,Diabetes
+A002232,Hypertension
+A002233,Asthma
+A002233,Hypertension
+A002235,Diabetes
+A002236,Diabetes
+A002237,Liver Disease
+A002238,Liver Disease
+A002240,Liver Disease
+A002240,Diabetes
+A002241,Asthma
+A002241,Diabetes
+A002241,Renal Disease
+A002242,Asthma
+A002242,Heart Disease
+A002243,Heart Disease
+A002244,Heart Disease
+A002246,Asthma
+A002247,Obesity
+A002248,COPD
+A002249,Hypertension
+A002250,Obesity
+A002251,Liver Disease
+A002253,Hypertension
+A002253,Liver Disease
+A002253,Obesity
+A002254,COPD
+A002254,Obesity
+A002254,Heart Disease
+A002255,Liver Disease
+A002255,Renal Disease
+A002255,Hypertension
+A002256,Asthma
+A002257,Hypertension
+A002257,Heart Disease
+A002259,Asthma
+A002260,Obesity
+A002262,Diabetes
+A002262,COPD
+A002263,Diabetes
+A002263,Renal Disease
+A002263,Heart Disease
+A002265,COPD
+A002265,Hypertension
+A002266,COPD
+A002267,Hypertension
+A002267,Liver Disease
+A002268,Obesity
+A002268,Diabetes
+A002271,Diabetes
+A002271,Renal Disease
+A002271,Liver Disease
+A002272,Diabetes
+A002272,Renal Disease
+A002272,Asthma
+A002273,Heart Disease
+A002273,Obesity
+A002273,Diabetes
+A002274,Hypertension
+A002274,Obesity
+A002275,Asthma
+A002275,Hypertension
+A002277,Heart Disease
+A002280,Renal Disease
+A002280,Hypertension
+A002281,Renal Disease
+A002282,Liver Disease
+A002283,Renal Disease
+A002283,Obesity
+A002283,Heart Disease
+A002284,COPD
+A002284,Diabetes
+A002284,Hypertension
+A002285,Obesity
+A002285,Liver Disease
+A002285,Diabetes
+A002286,Liver Disease
+A002287,Liver Disease
+A002288,Liver Disease
+A002289,Diabetes
+A002289,Asthma
+A002290,COPD
+A002290,Heart Disease
+A002291,Asthma
+A002291,Hypertension
+A002291,Obesity
+A002292,Renal Disease
+A002292,Liver Disease
+A002293,Hypertension
+A002293,Heart Disease
+A002293,Asthma
+A002294,Liver Disease
+A002295,Renal Disease
+A002295,Obesity
+A002296,Asthma
+A002297,Heart Disease
+A002298,Hypertension
+A002298,Diabetes
+A002299,Asthma
+A002299,Liver Disease
+A002300,Diabetes
+A002300,Hypertension
+A002301,Liver Disease
+A002301,COPD
+A002301,Obesity
+A002302,COPD
+A002304,Obesity
+A002306,Obesity
+A002306,Diabetes
+A002306,Hypertension
+A002310,Hypertension
+A002310,COPD
+A002311,Renal Disease
+A002311,Heart Disease
+A002311,COPD
+A002313,COPD
+A002314,Liver Disease
+A002314,Obesity
+A002315,Diabetes
+A002315,Hypertension
+A002315,Asthma
+A002316,Heart Disease
+A002316,Asthma
+A002316,Renal Disease
+A002317,Asthma
+A002318,Heart Disease
+A002318,Liver Disease
+A002320,Liver Disease
+A002320,Asthma
+A002320,Renal Disease
+A002322,Liver Disease
+A002323,Hypertension
+A002324,Heart Disease
+A002324,Hypertension
+A002324,Liver Disease
+A002325,Heart Disease
+A002325,Diabetes
+A002325,Hypertension
+A002327,Asthma
+A002327,Liver Disease
+A002327,COPD
+A002328,Liver Disease
+A002330,Asthma
+A002330,Renal Disease
+A002330,Heart Disease
+A002331,Hypertension
+A002332,Renal Disease
+A002332,Hypertension
+A002333,Liver Disease
+A002334,Heart Disease
+A002334,Obesity
+A002335,COPD
+A002337,Liver Disease
+A002337,Asthma
+A002338,Asthma
+A002338,Hypertension
+A002338,Heart Disease
+A002340,Heart Disease
+A002340,Renal Disease
+A002340,Asthma
+A002341,Hypertension
+A002342,COPD
+A002343,Heart Disease
+A002345,Liver Disease
+A002346,Diabetes
+A002346,COPD
+A002347,Diabetes
+A002347,Liver Disease
+A002349,Renal Disease
+A002349,COPD
+A002353,Renal Disease
+A002354,Liver Disease
+A002354,Asthma
+A002354,Obesity
+A002355,Hypertension
+A002357,COPD
+A002358,Obesity
+A002358,Asthma
+A002359,Obesity
+A002359,Diabetes
+A002360,Heart Disease
+A002361,Liver Disease
+A002363,Liver Disease
+A002364,Obesity
+A002364,Hypertension
+A002364,Liver Disease
+A002365,Diabetes
+A002366,Diabetes
+A002368,Diabetes
+A002368,Hypertension
+A002369,Liver Disease
+A002371,Liver Disease
+A002371,Diabetes
+A002371,Asthma
+A002372,Heart Disease
+A002375,COPD
+A002375,Hypertension
+A002376,Obesity
+A002376,COPD
+A002377,Hypertension
+A002377,COPD
+A002379,Heart Disease
+A002379,Diabetes
+A002380,Hypertension
+A002380,Liver Disease
+A002381,Diabetes
+A002384,Liver Disease
+A002384,Hypertension
+A002386,Renal Disease
+A002386,Liver Disease
+A002387,Liver Disease
+A002387,Renal Disease
+A002388,COPD
+A002389,Hypertension
+A002389,Heart Disease
+A002389,COPD
+A002390,Asthma
+A002390,COPD
+A002390,Heart Disease
+A002391,Diabetes
+A002391,Heart Disease
+A002391,Asthma
+A002392,Asthma
+A002393,Obesity
+A002395,Liver Disease
+A002395,Asthma
+A002396,Obesity
+A002397,Renal Disease
+A002398,Obesity
+A002398,Heart Disease
+A002398,Hypertension
+A002399,Hypertension
+A002401,Hypertension
+A002401,Liver Disease
+A002401,Heart Disease
+A002402,Asthma
+A002403,Obesity
+A002403,Diabetes
+A002404,Heart Disease
+A002404,Renal Disease
+A002404,Asthma
+A002405,Heart Disease
+A002405,Renal Disease
+A002407,COPD
+A002407,Hypertension
+A002407,Asthma
+A002408,Hypertension
+A002408,Liver Disease
+A002409,Obesity
+A002410,Obesity
+A002413,Obesity
+A002414,Obesity
+A002414,COPD
+A002415,COPD
+A002416,COPD
+A002416,Diabetes
+A002416,Liver Disease
+A002417,COPD
+A002417,Obesity
+A002418,Renal Disease
+A002419,Asthma
+A002419,COPD
+A002420,Liver Disease
+A002420,Obesity
+A002420,Hypertension
+A002421,Obesity
+A002423,Obesity
+A002423,Liver Disease
+A002425,Heart Disease
+A002425,Asthma
+A002425,Obesity
+A002426,Hypertension
+A002426,Obesity
+A002428,Obesity
+A002428,Hypertension
+A002429,Hypertension
+A002430,Asthma
+A002432,Obesity
+A002432,Renal Disease
+A002432,Diabetes
+A002433,Hypertension
+A002433,Renal Disease
+A002433,Obesity
+A002434,Hypertension
+A002435,Asthma
+A002436,Liver Disease
+A002436,COPD
+A002436,Asthma
+A002437,Obesity
+A002439,Obesity
+A002439,Renal Disease
+A002439,Diabetes
+A002441,Liver Disease
+A002441,Asthma
+A002441,COPD
+A002442,Hypertension
+A002442,Heart Disease
+A002444,Hypertension
+A002444,Renal Disease
+A002445,Liver Disease
+A002446,Obesity
+A002446,Diabetes
+A002446,Heart Disease
+A002447,Asthma
+A002447,COPD
+A002447,Renal Disease
+A002448,Diabetes
+A002449,Obesity
+A002450,Heart Disease
+A002451,Hypertension
+A002451,Asthma
+A002452,Heart Disease
+A002452,Diabetes
+A002453,Heart Disease
+A002454,Diabetes
+A002454,Renal Disease
+A002454,Liver Disease
+A002455,Hypertension
+A002457,Heart Disease
+A002457,Obesity
+A002458,Hypertension
+A002458,Renal Disease
+A002458,Liver Disease
+A002459,Asthma
+A002459,Renal Disease
+A002459,Obesity
+A002462,Renal Disease
+A002463,Renal Disease
+A002463,Obesity
+A002463,Asthma
+A002464,Liver Disease
+A002465,Diabetes
+A002465,Hypertension
+A002465,Asthma
+A002466,Liver Disease
+A002466,Asthma
+A002468,Diabetes
+A002469,Asthma
+A002470,Obesity
+A002470,Liver Disease
+A002471,Obesity
+A002471,Hypertension
+A002472,Hypertension
+A002472,Renal Disease
+A002472,COPD
+A002473,Obesity
+A002473,Asthma
+A002473,Heart Disease
+A002474,Obesity
+A002474,Renal Disease
+A002474,Heart Disease
+A002475,Renal Disease
+A002475,Diabetes
+A002476,Asthma
+A002476,COPD
+A002478,Asthma
+A002479,Hypertension
+A002480,Liver Disease
+A002480,Diabetes
+A002481,COPD
+A002481,Hypertension
+A002482,Diabetes
+A002482,Liver Disease
+A002482,COPD
+A002483,COPD
+A002483,Liver Disease
+A002484,COPD
+A002484,Renal Disease
+A002484,Hypertension
+A002485,Asthma
+A002485,COPD
+A002485,Renal Disease
+A002489,Renal Disease
+A002489,Hypertension
+A002490,Hypertension
+A002490,COPD
+A002490,Asthma
+A002491,Hypertension
+A002493,Heart Disease
+A002493,Liver Disease
+A002495,Heart Disease
+A002495,Asthma
+A002495,COPD
+A002498,Heart Disease
+A002498,Diabetes
+A002499,Obesity
+A002500,Obesity
+A002501,COPD
+A002501,Heart Disease
+A002502,COPD
+A002503,Asthma
+A002504,Asthma
+A002504,Renal Disease
+A002504,Hypertension
+A002506,Liver Disease
+A002507,Diabetes
+A002508,Asthma
+A002510,Hypertension
+A002510,Asthma
+A002510,Heart Disease
+A002511,Diabetes
+A002512,Liver Disease
+A002514,Hypertension
+A002514,Renal Disease
+A002515,Renal Disease
+A002515,Diabetes
+A002516,Diabetes
+A002516,Renal Disease
+A002517,Diabetes
+A002517,Liver Disease
+A002518,Hypertension
+A002519,Diabetes
+A002519,Asthma
+A002519,Obesity
+A002520,Renal Disease
+A002520,Hypertension
+A002521,Obesity
+A002521,Diabetes
+A002521,COPD
+A002522,Hypertension
+A002523,Asthma
+A002523,Hypertension
+A002523,Obesity
+A002524,Liver Disease
+A002524,Renal Disease
+A002525,Asthma
+A002526,COPD
+A002526,Heart Disease
+A002528,Asthma
+A002528,Hypertension
+A002529,Liver Disease
+A002529,Hypertension
+A002529,Obesity
+A002530,COPD
+A002530,Asthma
+A002530,Obesity
+A002531,Renal Disease
+A002531,Heart Disease
+A002532,Obesity
+A002533,Asthma
+A002533,Liver Disease
+A002533,Diabetes
+A002534,Diabetes
+A002535,Renal Disease
+A002535,Asthma
+A002535,Heart Disease
+A002536,Diabetes
+A002536,Obesity
+A002536,Renal Disease
+A002537,COPD
+A002537,Heart Disease
+A002538,Asthma
+A002539,Hypertension
+A002540,Hypertension
+A002540,Liver Disease
+A002541,Diabetes
+A002543,Obesity
+A002543,Renal Disease
+A002544,Diabetes
+A002544,Hypertension
+A002544,Obesity
+A002546,Heart Disease
+A002546,Diabetes
+A002547,Obesity
+A002547,Diabetes
+A002550,COPD
+A002550,Asthma
+A002550,Diabetes
+A002551,Diabetes
+A002551,Obesity
+A002551,Hypertension
+A002552,Asthma
+A002552,Liver Disease
+A002552,Hypertension
+A002553,Hypertension
+A002553,Obesity
+A002554,Heart Disease
+A002555,COPD
+A002555,Liver Disease
+A002555,Diabetes
+A002556,Diabetes
+A002556,Obesity
+A002557,Diabetes
+A002559,COPD
+A002559,Obesity
+A002559,Liver Disease
+A002560,Liver Disease
+A002560,Asthma
+A002560,Heart Disease
+A002561,Diabetes
+A002561,Renal Disease
+A002561,Heart Disease
+A002562,Renal Disease
+A002562,COPD
+A002562,Asthma
+A002563,Liver Disease
+A002564,Asthma
+A002566,Liver Disease
+A002566,Obesity
+A002566,COPD
+A002567,Asthma
+A002567,Liver Disease
+A002567,Heart Disease
+A002568,Asthma
+A002568,Liver Disease
+A002568,Renal Disease
+A002569,Hypertension
+A002570,COPD
+A002570,Liver Disease
+A002570,Heart Disease
+A002571,Renal Disease
+A002571,Hypertension
+A002571,Heart Disease
+A002573,Liver Disease
+A002574,Diabetes
+A002574,Liver Disease
+A002574,Obesity
+A002575,Obesity
+A002575,Asthma
+A002576,Hypertension
+A002576,Diabetes
+A002578,COPD
+A002578,Liver Disease
+A002578,Diabetes
+A002579,Obesity
+A002579,Heart Disease
+A002581,Heart Disease
+A002581,Obesity
+A002582,Obesity
+A002582,Asthma
+A002582,Heart Disease
+A002583,COPD
+A002583,Liver Disease
+A002584,Hypertension
+A002584,Heart Disease
+A002585,COPD
+A002585,Diabetes
+A002585,Renal Disease
+A002586,Asthma
+A002588,Renal Disease
+A002589,COPD
+A002589,Renal Disease
+A002589,Asthma
+A002590,Renal Disease
+A002590,Heart Disease
+A002590,Hypertension
+A002591,Liver Disease
+A002591,Renal Disease
+A002592,Obesity
+A002592,Asthma
+A002592,Hypertension
+A002593,Diabetes
+A002593,Liver Disease
+A002593,COPD
+A002595,Obesity
+A002595,Liver Disease
+A002595,Heart Disease
+A002597,Asthma
+A002597,Hypertension
+A002597,Diabetes
+A002598,Asthma
+A002598,Heart Disease
+A002598,Liver Disease
+A002599,COPD
+A002599,Obesity
+A002600,COPD
+A002600,Renal Disease
+A002600,Liver Disease
+A002601,Obesity
+A002601,COPD
+A002602,Diabetes
+A002603,COPD
+A002603,Obesity
+A002603,Renal Disease
+A002604,Heart Disease
+A002605,Asthma
+A002607,Heart Disease
+A002607,Diabetes
+A002607,Asthma
+A002608,Liver Disease
+A002608,COPD
+A002608,Asthma
+A002609,Liver Disease
+A002610,Obesity
+A002610,Heart Disease
+A002610,COPD
+A002611,Heart Disease
+A002612,Diabetes
+A002614,Hypertension
+A002615,Heart Disease
+A002615,Asthma
+A002616,Diabetes
+A002616,COPD
+A002617,Hypertension
+A002617,Diabetes
+A002619,Diabetes
+A002620,Asthma
+A002620,Hypertension
+A002620,Renal Disease
+A002621,Renal Disease
+A002622,Heart Disease
+A002622,Liver Disease
+A002624,Hypertension
+A002625,Obesity
+A002625,Liver Disease
+A002625,Renal Disease
+A002626,Liver Disease
+A002628,COPD
+A002628,Heart Disease
+A002630,Renal Disease
+A002630,Obesity
+A002631,Renal Disease
+A002631,Heart Disease
+A002631,Liver Disease
+A002632,Asthma
+A002633,Diabetes
+A002633,COPD
+A002633,Obesity
+A002634,Hypertension
+A002634,COPD
+A002634,Renal Disease
+A002635,COPD
+A002635,Diabetes
+A002635,Liver Disease
+A002636,Obesity
+A002636,Renal Disease
+A002637,Asthma
+A002638,Hypertension
+A002638,Liver Disease
+A002639,Renal Disease
+A002639,Asthma
+A002641,Renal Disease
+A002641,COPD
+A002641,Obesity
+A002642,Asthma
+A002642,Heart Disease
+A002642,Liver Disease
+A002643,Heart Disease
+A002644,Liver Disease
+A002644,COPD
+A002644,Heart Disease
+A002646,Diabetes
+A002647,Hypertension
+A002647,Asthma
+A002648,Diabetes
+A002648,Hypertension
+A002650,Liver Disease
+A002652,Asthma
+A002653,Obesity
+A002653,Liver Disease
+A002653,Asthma
+A002654,COPD
+A002654,Renal Disease
+A002654,Obesity
+A002655,Obesity
+A002655,Hypertension
+A002655,Heart Disease
+A002657,Asthma
+A002658,Heart Disease
+A002658,Obesity
+A002658,Renal Disease
+A002661,COPD
+A002661,Asthma
+A002661,Liver Disease
+A002662,Obesity
+A002662,Liver Disease
+A002663,Diabetes
+A002663,Liver Disease
+A002664,Heart Disease
+A002664,Hypertension
+A002665,Renal Disease
+A002665,Heart Disease
+A002665,Asthma
+A002666,Liver Disease
+A002666,Hypertension
+A002667,Diabetes
+A002667,Asthma
+A002667,Heart Disease
+A002669,Hypertension
+A002671,COPD
+A002671,Hypertension
+A002671,Renal Disease
+A002672,Obesity
+A002672,Hypertension
+A002674,Renal Disease
+A002674,Liver Disease
+A002674,Obesity
+A002675,Obesity
+A002676,Hypertension
+A002676,Obesity
+A002677,Renal Disease
+A002678,Diabetes
+A002678,Hypertension
+A002679,Asthma
+A002681,Hypertension
+A002681,Asthma
+A002681,Renal Disease
+A002682,Diabetes
+A002682,Heart Disease
+A002682,Obesity
+A002685,Hypertension
+A002685,Renal Disease
+A002685,Asthma
+A002686,Hypertension
+A002687,Liver Disease
+A002687,Heart Disease
+A002687,Renal Disease
+A002689,COPD
+A002689,Heart Disease
+A002689,Renal Disease
+A002690,Heart Disease
+A002690,Hypertension
+A002691,Renal Disease
+A002691,Hypertension
+A002692,Obesity
+A002693,Hypertension
+A002693,Diabetes
+A002694,Liver Disease
+A002694,Diabetes
+A002695,Hypertension
+A002695,Liver Disease
+A002696,Liver Disease
+A002699,Heart Disease
+A002700,Asthma
+A002700,Liver Disease
+A002701,Renal Disease
+A002701,Hypertension
+A002701,COPD
+A002702,Diabetes
+A002702,COPD
+A002703,Diabetes
+A002703,Obesity
+A002703,Asthma
+A002704,Diabetes
+A002705,Obesity
+A002709,Asthma
+A002709,Liver Disease
+A002709,Renal Disease
+A002711,Renal Disease
+A002711,Obesity
+A002711,Asthma
+A002712,Asthma
+A002712,Heart Disease
+A002713,Obesity
+A002713,COPD
+A002713,Liver Disease
+A002714,COPD
+A002714,Heart Disease
+A002715,Hypertension
+A002715,COPD
+A002715,Obesity
+A002716,Obesity
+A002716,COPD
+A002716,Hypertension
+A002717,Diabetes
+A002717,COPD
+A002717,Obesity
+A002719,Diabetes
+A002719,Asthma
+A002719,Obesity
+A002720,Asthma
+A002720,Heart Disease
+A002720,Diabetes
+A002722,Hypertension
+A002722,Renal Disease
+A002723,Liver Disease
+A002723,COPD
+A002723,Obesity
+A002725,Obesity
+A002725,COPD
+A002726,Asthma
+A002726,Hypertension
+A002727,Asthma
+A002728,Obesity
+A002732,Diabetes
+A002732,Asthma
+A002733,Obesity
+A002733,Liver Disease
+A002733,Heart Disease
+A002734,Asthma
+A002734,Hypertension
+A002735,Hypertension
+A002735,COPD
+A002736,COPD
+A002736,Liver Disease
+A002739,Hypertension
+A002739,Diabetes
+A002739,Asthma
+A002740,Diabetes
+A002741,Liver Disease
+A002742,Liver Disease
+A002742,COPD
+A002744,Asthma
+A002744,Hypertension
+A002745,Obesity
+A002747,Obesity
+A002747,Heart Disease
+A002748,Heart Disease
+A002748,Obesity
+A002748,Liver Disease
+A002749,Diabetes
+A002749,Liver Disease
+A002750,Hypertension
+A002752,Liver Disease
+A002753,Renal Disease
+A002753,Diabetes
+A002753,Asthma
+A002755,COPD
+A002755,Obesity
+A002755,Asthma
+A002756,Heart Disease
+A002756,Liver Disease
+A002757,COPD
+A002757,Asthma
+A002757,Renal Disease
+A002758,Heart Disease
+A002759,Heart Disease
+A002760,COPD
+A002760,Obesity
+A002760,Diabetes
+A002762,Obesity
+A002763,Asthma
+A002763,Obesity
+A002765,Obesity
+A002765,Asthma
+A002765,Liver Disease
+A002766,Hypertension
+A002766,Obesity
+A002766,Heart Disease
+A002768,Asthma
+A002768,COPD
+A002769,Liver Disease
+A002769,Heart Disease
+A002769,Renal Disease
+A002770,Heart Disease
+A002772,Obesity
+A002772,Diabetes
+A002773,COPD
+A002777,COPD
+A002778,Hypertension
+A002778,Asthma
+A002779,COPD
+A002779,Asthma
+A002779,Liver Disease
+A002780,Renal Disease
+A002780,Diabetes
+A002780,Obesity
+A002781,Liver Disease
+A002781,Diabetes
+A002781,Asthma
+A002783,Heart Disease
+A002783,Liver Disease
+A002784,Diabetes
+A002784,Obesity
+A002784,COPD
+A002785,COPD
+A002785,Diabetes
+A002785,Hypertension
+A002786,Renal Disease
+A002786,Asthma
+A002787,Heart Disease
+A002787,COPD
+A002789,Obesity
+A002789,COPD
+A002789,Heart Disease
+A002790,Heart Disease
+A002790,Diabetes
+A002792,COPD
+A002792,Heart Disease
+A002792,Obesity
+A002794,Liver Disease
+A002794,Diabetes
+A002795,COPD
+A002797,Liver Disease
+A002799,Hypertension
+A002800,Liver Disease
+A002802,Hypertension
+A002802,Obesity
+A002803,Liver Disease
+A002803,Obesity
+A002804,Asthma
+A002804,Hypertension
+A002805,Renal Disease
+A002805,Hypertension
+A002806,Obesity
+A002808,Obesity
+A002808,COPD
+A002809,Obesity
+A002812,Liver Disease
+A002812,Diabetes
+A002814,Liver Disease
+A002814,Heart Disease
+A002814,COPD
+A002815,Liver Disease
+A002815,Renal Disease
+A002815,Heart Disease
+A002816,Obesity
+A002817,Liver Disease
+A002817,Hypertension
+A002818,Hypertension
+A002818,Asthma
+A002818,Renal Disease
+A002819,Obesity
+A002819,Renal Disease
+A002819,Hypertension
+A002821,Hypertension
+A002822,Hypertension
+A002824,Diabetes
+A002824,Asthma
+A002824,Renal Disease
+A002825,COPD
+A002825,Heart Disease
+A002825,Liver Disease
+A002827,Hypertension
+A002828,Diabetes
+A002828,COPD
+A002828,Liver Disease
+A002831,Renal Disease
+A002831,Liver Disease
+A002832,Renal Disease
+A002832,Asthma
+A002832,Diabetes
+A002833,Asthma
+A002833,Liver Disease
+A002834,COPD
+A002834,Diabetes
+A002836,Renal Disease
+A002836,Asthma
+A002837,Liver Disease
+A002837,COPD
+A002837,Asthma
+A002841,Obesity
+A002842,Asthma
+A002842,Renal Disease
+A002842,COPD
+A002843,Diabetes
+A002844,Heart Disease
+A002844,Obesity
+A002844,Diabetes
+A002845,Renal Disease
+A002845,Obesity
+A002845,Liver Disease
+A002846,COPD
+A002847,Renal Disease
+A002848,Hypertension
+A002848,Diabetes
+A002850,Asthma
+A002850,Obesity
+A002851,Liver Disease
+A002852,Liver Disease
+A002852,Obesity
+A002853,Renal Disease
+A002853,Liver Disease
+A002853,Obesity
+A002855,Hypertension
+A002857,Diabetes
+A002857,Asthma
+A002858,Liver Disease
+A002859,Hypertension
+A002859,Liver Disease
+A002860,Renal Disease
+A002860,Heart Disease
+A002860,Obesity
+A002861,COPD
+A002861,Asthma
+A002861,Diabetes
+A002862,Heart Disease
+A002862,Obesity
+A002862,Diabetes
+A002863,Obesity
+A002863,Asthma
+A002864,Asthma
+A002864,Hypertension
+A002864,Obesity
+A002866,Asthma
+A002867,Liver Disease
+A002868,Liver Disease
+A002868,Renal Disease
+A002868,COPD
+A002870,Heart Disease
+A002870,Renal Disease
+A002871,Asthma
+A002872,Obesity
+A002872,Heart Disease
+A002873,Asthma
+A002873,Obesity
+A002873,Heart Disease
+A002874,Obesity
+A002874,Heart Disease
+A002874,COPD
+A002876,Heart Disease
+A002876,Asthma
+A002877,Asthma
+A002878,Asthma
+A002878,Obesity
+A002878,COPD
+A002879,Renal Disease
+A002880,Renal Disease
+A002880,Hypertension
+A002880,Liver Disease
+A002881,COPD
+A002881,Asthma
+A002881,Hypertension
+A002882,Asthma
+A002882,Renal Disease
+A002882,Obesity
+A002885,Heart Disease
+A002886,Hypertension
+A002887,Hypertension
+A002887,Asthma
+A002888,COPD
+A002888,Diabetes
+A002889,Hypertension
+A002889,Diabetes
+A002891,Liver Disease
+A002892,Obesity
+A002892,Renal Disease
+A002892,Liver Disease
+A002894,Obesity
+A002894,Hypertension
+A002895,Obesity
+A002896,Diabetes
+A002896,Heart Disease
+A002897,Heart Disease
+A002897,Renal Disease
+A002897,Liver Disease
+A002899,Liver Disease
+A002899,COPD
+A002899,Diabetes
+A002902,Hypertension
+A002904,Asthma
+A002904,Hypertension
+A002905,Obesity
+A002905,Asthma
+A002905,Diabetes
+A002906,Heart Disease
+A002906,Hypertension
+A002906,Renal Disease
+A002907,Asthma
+A002907,Liver Disease
+A002907,Obesity
+A002908,Renal Disease
+A002908,Obesity
+A002908,COPD
+A002909,Asthma
+A002910,Heart Disease
+A002910,Diabetes
+A002910,Obesity
+A002911,Asthma
+A002911,Hypertension
+A002911,Liver Disease
+A002912,Renal Disease
+A002912,Heart Disease
+A002913,Heart Disease
+A002913,Hypertension
+A002914,Hypertension
+A002914,Heart Disease
+A002915,Liver Disease
+A002915,Hypertension
+A002916,Hypertension
+A002918,COPD
+A002918,Diabetes
+A002919,COPD
+A002920,Heart Disease
+A002920,Hypertension
+A002922,COPD
+A002922,Liver Disease
+A002924,Obesity
+A002924,Heart Disease
+A002925,Obesity
+A002926,Diabetes
+A002926,Asthma
+A002927,Asthma
+A002927,Obesity
+A002927,Renal Disease
+A002929,Diabetes
+A002931,Asthma
+A002931,COPD
+A002931,Heart Disease
+A002933,Asthma
+A002934,Asthma
+A002934,Liver Disease
+A002934,Obesity
+A002935,COPD
+A002935,Diabetes
+A002936,Liver Disease
+A002936,Diabetes
+A002936,Heart Disease
+A002938,Heart Disease
+A002938,Renal Disease
+A002938,Asthma
+A002939,Heart Disease
+A002940,Hypertension
+A002940,Obesity
+A002940,Liver Disease
+A002941,COPD
+A002941,Asthma
+A002941,Heart Disease
+A002945,COPD
+A002945,Asthma
+A002945,Heart Disease
+A002946,Asthma
+A002947,COPD
+A002948,Renal Disease
+A002949,Renal Disease
+A002950,Diabetes
+A002950,Hypertension
+A002950,Renal Disease
+A002952,Obesity
+A002952,Asthma
+A002952,COPD
+A002953,Renal Disease
+A002953,Obesity
+A002954,Renal Disease
+A002954,Heart Disease
+A002954,Diabetes
+A002956,COPD
+A002956,Diabetes
+A002958,Asthma
+A002958,Liver Disease
+A002958,Renal Disease
+A002962,COPD
+A002962,Asthma
+A002963,Renal Disease
+A002963,Diabetes
+A002963,Hypertension
+A002964,Liver Disease
+A002965,Hypertension
+A002965,Renal Disease
+A002965,Obesity
+A002966,Asthma
+A002968,Renal Disease
+A002969,Asthma
+A002969,Diabetes
+A002969,Liver Disease
+A002973,Hypertension
+A002973,Liver Disease
+A002973,Heart Disease
+A002974,Diabetes
+A002974,COPD
+A002974,Asthma
+A002975,Asthma
+A002975,Renal Disease
+A002976,Renal Disease
+A002976,Heart Disease
+A002976,Liver Disease
+A002977,Asthma
+A002977,Hypertension
+A002978,Renal Disease
+A002978,Liver Disease
+A002978,Hypertension
+A002980,Hypertension
+A002980,Renal Disease
+A002982,Obesity
+A002982,COPD
+A002983,Obesity
+A002983,Heart Disease
+A002983,Diabetes
+A002984,Asthma
+A002986,Asthma
+A002986,COPD
+A002986,Hypertension
+A002987,Diabetes
+A002987,Obesity
+A002988,Heart Disease
+A002990,COPD
+A002991,Diabetes
+A002991,Obesity
+A002992,Liver Disease
+A002992,Hypertension
+A002993,Renal Disease
+A002993,Diabetes
+A002994,Hypertension
+A002994,Heart Disease
+A002994,Renal Disease
+A002995,Liver Disease
+A002995,Hypertension
+A002997,Liver Disease
+A002997,Obesity
+A002999,Renal Disease
+A002999,Obesity
+A003000,COPD
+A003000,Heart Disease
+A003001,Obesity
+A003001,Heart Disease
+A003001,Hypertension
+A003002,Obesity
+A003002,Asthma
+A003004,Renal Disease
+A003004,Liver Disease
+A003005,Renal Disease
+A003006,Obesity
+A003006,Asthma
+A003007,Heart Disease
+A003007,Diabetes
+A003009,Asthma
+A003009,Liver Disease
+A003009,COPD
+A003013,Renal Disease
+A003013,Obesity
+A003013,Diabetes
+A003014,Heart Disease
+A003015,Hypertension
+A003016,Liver Disease
+A003017,Liver Disease
+A003017,Heart Disease
+A003017,Diabetes
+A003019,Obesity
+A003020,Obesity
+A003020,Heart Disease
+A003020,Diabetes
+A003022,Diabetes
+A003022,Hypertension
+A003022,COPD
+A003025,Asthma
+A003025,COPD
+A003026,Obesity
+A003026,COPD
+A003026,Heart Disease
+A003027,Renal Disease
+A003027,COPD
+A003028,COPD
+A003028,Liver Disease
+A003029,COPD
+A003029,Diabetes
+A003029,Asthma
+A003030,Obesity
+A003030,Liver Disease
+A003030,Hypertension
+A003031,Heart Disease
+A003031,Liver Disease
+A003032,Heart Disease
+A003032,Obesity
+A003034,Asthma
+A003034,Diabetes
+A003036,COPD
+A003036,Hypertension
+A003036,Diabetes
+A003037,Hypertension
+A003040,Heart Disease
+A003041,Asthma
+A003042,Asthma
+A003042,Renal Disease
+A003043,Renal Disease
+A003043,COPD
+A003044,Heart Disease
+A003044,Liver Disease
+A003045,COPD
+A003047,Diabetes
+A003047,Obesity
+A003048,Asthma
+A003048,Liver Disease
+A003048,Heart Disease
+A003050,Obesity
+A003051,Asthma
+A003055,COPD
+A003055,Diabetes
+A003056,COPD
+A003056,Diabetes
+A003057,Liver Disease
+A003058,COPD
+A003061,COPD
+A003062,Hypertension
+A003063,Asthma
+A003063,Renal Disease
+A003063,Hypertension
+A003064,Hypertension
+A003064,Renal Disease
+A003064,Obesity
+A003065,Liver Disease
+A003065,COPD
+A003065,Heart Disease
+A003067,Diabetes
+A003067,Heart Disease
+A003067,Liver Disease
+A003068,Asthma
+A003068,Diabetes
+A003070,Obesity
+A003070,Heart Disease
+A003072,Hypertension
+A003072,Obesity
+A003073,Heart Disease
+A003073,Renal Disease
+A003074,Renal Disease
+A003077,Asthma
+A003077,Hypertension
+A003078,Hypertension
+A003078,COPD
+A003079,COPD
+A003080,Asthma
+A003080,Heart Disease
+A003080,Renal Disease
+A003081,COPD
+A003081,Heart Disease
+A003082,COPD
+A003083,Hypertension
+A003083,Renal Disease
+A003083,COPD
+A003085,Heart Disease
+A003086,COPD
+A003088,Renal Disease
+A003088,Obesity
+A003088,Liver Disease
+A003089,Obesity
+A003089,Heart Disease
+A003091,Obesity
+A003092,COPD
+A003093,Diabetes
+A003093,Hypertension
+A003093,Renal Disease
+A003094,Asthma
+A003094,Hypertension
+A003095,COPD
+A003095,Liver Disease
+A003095,Heart Disease
+A003096,Asthma
+A003098,Heart Disease
+A003098,Asthma
+A003098,Hypertension
+A003101,Asthma
+A003102,Asthma
+A003102,Hypertension
+A003102,Diabetes
+A003103,Asthma
+A003103,Heart Disease
+A003104,Asthma
+A003104,COPD
+A003105,Hypertension
+A003106,COPD
+A003106,Obesity
+A003107,Heart Disease
+A003107,Obesity
+A003108,Hypertension
+A003110,Liver Disease
+A003111,Heart Disease
+A003112,Liver Disease
+A003112,Obesity
+A003113,Renal Disease
+A003113,COPD
+A003115,Liver Disease
+A003115,Renal Disease
+A003115,Diabetes
+A003117,Renal Disease
+A003117,Hypertension
+A003117,Obesity
+A003118,Diabetes
+A003118,Hypertension
+A003119,Renal Disease
+A003121,Asthma
+A003121,COPD
+A003121,Obesity
+A003123,Hypertension
+A003124,Diabetes
+A003124,COPD
+A003124,Liver Disease
+A003126,Liver Disease
+A003126,COPD
+A003126,Hypertension
+A003127,Hypertension
+A003127,Diabetes
+A003128,Obesity
+A003128,Diabetes
+A003128,Asthma
+A003129,Obesity
+A003130,Hypertension
+A003130,Liver Disease
+A003130,Diabetes
+A003131,Liver Disease
+A003131,Obesity
+A003131,Diabetes
+A003132,Renal Disease
+A003132,Hypertension
+A003132,Diabetes
+A003135,Liver Disease
+A003135,Obesity
+A003135,Renal Disease
+A003136,Heart Disease
+A003136,Hypertension
+A003136,Liver Disease
+A003138,Diabetes
+A003139,Renal Disease
+A003139,Diabetes
+A003139,Liver Disease
+A003140,Diabetes
+A003140,Asthma
+A003142,Liver Disease
+A003143,Renal Disease
+A003143,Liver Disease
+A003144,COPD
+A003144,Diabetes
+A003145,Liver Disease
+A003148,COPD
+A003148,Liver Disease
+A003148,Diabetes
+A003150,Diabetes
+A003151,Heart Disease
+A003151,Renal Disease
+A003151,Asthma
+A003152,Liver Disease
+A003152,Diabetes
+A003153,Liver Disease
+A003153,Diabetes
+A003154,Obesity
+A003154,Hypertension
+A003154,COPD
+A003156,COPD
+A003156,Asthma
+A003156,Obesity
+A003158,Diabetes
+A003158,COPD
+A003159,Hypertension
+A003159,Renal Disease
+A003160,Heart Disease
+A003160,Liver Disease
+A003162,Heart Disease
+A003162,Obesity
+A003164,Heart Disease
+A003164,Hypertension
+A003165,Diabetes
+A003165,Renal Disease
+A003166,Liver Disease
+A003167,Heart Disease
+A003168,Liver Disease
+A003169,COPD
+A003170,COPD
+A003170,Hypertension
+A003170,Obesity
+A003171,Hypertension
+A003171,Asthma
+A003171,Obesity
+A003173,Heart Disease
+A003173,Liver Disease
+A003174,Diabetes
+A003174,Asthma
+A003175,Obesity
+A003175,Renal Disease
+A003175,Liver Disease
+A003176,Obesity
+A003176,Heart Disease
+A003176,Renal Disease
+A003178,Asthma
+A003179,COPD
+A003179,Diabetes
+A003179,Heart Disease
+A003180,Hypertension
+A003181,Diabetes
+A003183,Obesity
+A003183,Heart Disease
+A003183,Diabetes
+A003186,Renal Disease
+A003186,COPD
+A003189,Asthma
+A003189,Diabetes
+A003189,COPD
+A003190,Obesity
+A003190,Liver Disease
+A003190,Hypertension
+A003192,Obesity
+A003192,COPD
+A003192,Hypertension
+A003196,Asthma
+A003196,Diabetes
+A003196,Liver Disease
+A003198,Asthma
+A003198,Heart Disease
+A003198,Diabetes
+A003200,Obesity
+A003200,Liver Disease
+A003201,Heart Disease
+A003202,COPD
+A003202,Hypertension
+A003203,Liver Disease
+A003203,Asthma
+A003203,Obesity
+A003204,Liver Disease
+A003204,Diabetes
+A003205,COPD
+A003205,Renal Disease
+A003205,Hypertension
+A003206,COPD
+A003206,Obesity
+A003208,COPD
+A003208,Heart Disease
+A003208,Hypertension
+A003209,Heart Disease
+A003209,Hypertension
+A003211,Heart Disease
+A003212,Liver Disease
+A003212,COPD
+A003213,Heart Disease
+A003213,Diabetes
+A003214,Liver Disease
+A003214,COPD
+A003216,Diabetes
+A003216,Renal Disease
+A003216,Liver Disease
+A003217,Obesity
+A003217,COPD
+A003218,Renal Disease
+A003220,COPD
+A003220,Heart Disease
+A003221,Diabetes
+A003221,Renal Disease
+A003221,Liver Disease
+A003222,Diabetes
+A003222,Hypertension
+A003223,Hypertension
+A003223,Heart Disease
+A003223,Obesity
+A003224,Hypertension
+A003224,Heart Disease
+A003224,Asthma
+A003227,COPD
+A003227,Hypertension
+A003227,Renal Disease
+A003228,Obesity
+A003229,Obesity
+A003229,Hypertension
+A003229,Heart Disease
+A003230,Asthma
+A003230,Renal Disease
+A003231,Diabetes
+A003231,Heart Disease
+A003231,Obesity
+A003233,Hypertension
+A003235,Obesity
+A003236,Diabetes
+A003237,Asthma
+A003237,Hypertension
+A003238,COPD
+A003238,Heart Disease
+A003238,Diabetes
+A003239,Obesity
+A003239,Diabetes
+A003240,Hypertension
+A003240,Heart Disease
+A003240,Asthma
+A003241,Liver Disease
+A003242,Obesity
+A003243,Hypertension
+A003243,Diabetes
+A003243,Obesity
+A003244,Obesity
+A003244,Diabetes
+A003244,Heart Disease
+A003245,Liver Disease
+A003245,COPD
+A003246,Renal Disease
+A003246,Obesity
+A003247,Heart Disease
+A003247,Asthma
+A003247,Hypertension
+A003248,Renal Disease
+A003251,Hypertension
+A003252,Diabetes
+A003252,Asthma
+A003253,COPD
+A003254,Obesity
+A003254,Heart Disease
+A003255,Diabetes
+A003255,Renal Disease
+A003256,Hypertension
+A003258,Diabetes
+A003258,Asthma
+A003258,Liver Disease
+A003259,Liver Disease
+A003261,Obesity
+A003261,Hypertension
+A003261,Diabetes
+A003263,COPD
+A003263,Obesity
+A003264,Renal Disease
+A003264,Hypertension
+A003264,Obesity
+A003265,Asthma
+A003265,Heart Disease
+A003267,Diabetes
+A003268,Diabetes
+A003268,COPD
+A003269,Asthma
+A003269,Hypertension
+A003269,COPD
+A003270,Renal Disease
+A003270,Obesity
+A003270,COPD
+A003271,Obesity
+A003271,Heart Disease
+A003271,Asthma
+A003273,Asthma
+A003273,Diabetes
+A003274,Heart Disease
+A003274,COPD
+A003275,Asthma
+A003275,Diabetes
+A003275,Obesity
+A003276,Diabetes
+A003276,Obesity
+A003277,Diabetes
+A003277,Hypertension
+A003277,Obesity
+A003279,Renal Disease
+A003280,Hypertension
+A003280,Liver Disease
+A003281,Renal Disease
+A003282,COPD
+A003282,Renal Disease
+A003285,Diabetes
+A003285,Asthma
+A003286,Diabetes
+A003287,COPD
+A003287,Heart Disease
+A003287,Liver Disease
+A003288,Liver Disease
+A003288,Hypertension
+A003288,COPD
+A003289,Renal Disease
+A003289,COPD
+A003290,Asthma
+A003291,Renal Disease
+A003291,Asthma
+A003292,Asthma
+A003292,Renal Disease
+A003293,Obesity
+A003294,Heart Disease
+A003294,Liver Disease
+A003295,COPD
+A003295,Liver Disease
+A003295,Asthma
+A003296,Renal Disease
+A003296,Obesity
+A003296,Asthma
+A003297,Hypertension
+A003301,Heart Disease
+A003301,Diabetes
+A003302,Liver Disease
+A003303,Heart Disease
+A003303,COPD
+A003303,Renal Disease
+A003304,Obesity
+A003305,Obesity
+A003305,Renal Disease
+A003305,Hypertension
+A003306,Diabetes
+A003307,Obesity
+A003307,COPD
+A003310,Obesity
+A003310,COPD
+A003311,Renal Disease
+A003311,Heart Disease
+A003312,Heart Disease
+A003312,Renal Disease
+A003312,Asthma
+A003316,COPD
+A003316,Renal Disease
+A003318,Obesity
+A003318,Renal Disease
+A003318,Diabetes
+A003319,Hypertension
+A003319,Heart Disease
+A003319,COPD
+A003320,Liver Disease
+A003320,Obesity
+A003320,Diabetes
+A003321,Obesity
+A003321,Liver Disease
+A003321,Hypertension
+A003324,Heart Disease
+A003325,Heart Disease
+A003325,Obesity
+A003325,Diabetes
+A003326,COPD
+A003326,Diabetes
+A003326,Heart Disease
+A003327,Heart Disease
+A003327,Renal Disease
+A003327,Obesity
+A003328,Obesity
+A003329,Asthma
+A003330,COPD
+A003331,Renal Disease
+A003331,Diabetes
+A003331,Liver Disease
+A003332,Diabetes
+A003332,COPD
+A003333,Liver Disease
+A003333,Renal Disease
+A003334,Diabetes
+A003334,Obesity
+A003334,Hypertension
+A003335,Renal Disease
+A003336,Diabetes
+A003336,Asthma
+A003337,Renal Disease
+A003337,Liver Disease
+A003338,Liver Disease
+A003339,Renal Disease
+A003340,Liver Disease
+A003340,COPD
+A003341,Heart Disease
+A003342,Renal Disease
+A003342,Heart Disease
+A003343,COPD
+A003343,Heart Disease
+A003343,Obesity
+A003344,COPD
+A003344,Heart Disease
+A003346,Diabetes
+A003346,COPD
+A003346,Asthma
+A003348,COPD
+A003349,COPD
+A003349,Renal Disease
+A003349,Asthma
+A003350,COPD
+A003350,Hypertension
+A003355,Obesity
+A003355,Renal Disease
+A003356,Obesity
+A003358,Diabetes
+A003358,COPD
+A003358,Asthma
+A003361,Obesity
+A003362,Asthma
+A003362,Diabetes
+A003362,Renal Disease
+A003363,Asthma
+A003363,Obesity
+A003363,Diabetes
+A003366,Hypertension
+A003367,Asthma
+A003367,Heart Disease
+A003367,Liver Disease
+A003368,Liver Disease
+A003368,Asthma
+A003368,COPD
+A003370,Diabetes
+A003370,Liver Disease
+A003370,Renal Disease
+A003371,COPD
+A003372,Liver Disease
+A003372,Renal Disease
+A003373,Diabetes
+A003373,Hypertension
+A003373,Obesity
+A003375,Heart Disease
+A003375,Renal Disease
+A003376,Heart Disease
+A003377,Renal Disease
+A003378,Renal Disease
+A003379,Heart Disease
+A003379,COPD
+A003380,Diabetes
+A003382,Diabetes
+A003382,Hypertension
+A003382,Asthma
+A003383,COPD
+A003383,Liver Disease
+A003387,Liver Disease
+A003387,Hypertension
+A003388,Heart Disease
+A003389,Hypertension
+A003389,Heart Disease
+A003389,Liver Disease
+A003390,Hypertension
+A003390,Diabetes
+A003390,COPD
+A003391,Liver Disease
+A003393,COPD
+A003393,Liver Disease
+A003393,Renal Disease
+A003396,Heart Disease
+A003398,Heart Disease
+A003398,Hypertension
+A003398,COPD
+A003399,Renal Disease
+A003400,Hypertension
+A003400,Obesity
+A003400,Diabetes
+A003402,Heart Disease
+A003402,Obesity
+A003403,Obesity
+A003404,Hypertension
+A003404,Obesity
+A003404,Asthma
+A003406,Asthma
+A003406,Diabetes
+A003406,COPD
+A003407,COPD
+A003407,Liver Disease
+A003407,Asthma
+A003408,Diabetes
+A003408,Hypertension
+A003409,Liver Disease
+A003410,COPD
+A003410,Renal Disease
+A003410,Hypertension
+A003411,Heart Disease
+A003411,Hypertension
+A003411,Diabetes
+A003412,COPD
+A003413,Renal Disease
+A003415,COPD
+A003416,Asthma
+A003416,Obesity
+A003417,Asthma
+A003419,Heart Disease
+A003419,Liver Disease
+A003419,Renal Disease
+A003421,Liver Disease
+A003422,Diabetes
+A003423,Hypertension
+A003423,Renal Disease
+A003425,Hypertension
+A003426,Asthma
+A003427,COPD
+A003427,Diabetes
+A003427,Obesity
+A003428,Liver Disease
+A003429,COPD
+A003429,Renal Disease
+A003430,Asthma
+A003431,Heart Disease
+A003431,Hypertension
+A003433,Hypertension
+A003433,Asthma
+A003434,COPD
+A003434,Hypertension
+A003435,Renal Disease
+A003435,Liver Disease
+A003436,Liver Disease
+A003436,Hypertension
+A003436,Obesity
+A003437,COPD
+A003439,Hypertension
+A003439,Diabetes
+A003439,Obesity
+A003440,Diabetes
+A003440,Hypertension
+A003440,Heart Disease
+A003441,Asthma
+A003441,Renal Disease
+A003442,Hypertension
+A003442,Heart Disease
+A003442,Asthma
+A003443,Renal Disease
+A003444,Liver Disease
+A003444,Renal Disease
+A003445,Obesity
+A003445,Renal Disease
+A003445,Liver Disease
+A003446,Asthma
+A003446,COPD
+A003448,Hypertension
+A003448,COPD
+A003449,Hypertension
+A003450,Liver Disease
+A003450,Heart Disease
+A003453,Liver Disease
+A003453,Renal Disease
+A003454,Renal Disease
+A003454,Obesity
+A003454,Diabetes
+A003455,COPD
+A003455,Hypertension
+A003457,Heart Disease
+A003457,Hypertension
+A003458,Renal Disease
+A003459,Asthma
+A003459,Renal Disease
+A003460,Heart Disease
+A003460,Liver Disease
+A003462,Obesity
+A003463,Heart Disease
+A003463,Hypertension
+A003463,COPD
+A003464,Renal Disease
+A003465,Liver Disease
+A003466,Asthma
+A003466,Renal Disease
+A003466,Obesity
+A003467,Diabetes
+A003467,Heart Disease
+A003467,Liver Disease
+A003468,Hypertension
+A003468,Liver Disease
+A003469,Heart Disease
+A003469,Diabetes
+A003469,Liver Disease
+A003471,COPD
+A003472,COPD
+A003472,Liver Disease
+A003473,Hypertension
+A003474,Obesity
+A003474,Diabetes
+A003474,Heart Disease
+A003477,COPD
+A003478,Asthma
+A003478,Heart Disease
+A003478,Renal Disease
+A003479,COPD
+A003480,Hypertension
+A003481,Hypertension
+A003481,Renal Disease
+A003482,Renal Disease
+A003482,Liver Disease
+A003482,Heart Disease
+A003483,Hypertension
+A003483,Heart Disease
+A003483,Obesity
+A003484,Renal Disease
+A003484,Diabetes
+A003485,Renal Disease
+A003486,Renal Disease
+A003486,Obesity
+A003487,COPD
+A003487,Heart Disease
+A003487,Liver Disease
+A003489,COPD
+A003489,Heart Disease
+A003491,Obesity
+A003492,Obesity
+A003493,Asthma
+A003496,Asthma
+A003496,COPD
+A003498,Heart Disease
+A003498,Obesity
+A003498,Diabetes
+A003501,Liver Disease
+A003502,Heart Disease
+A003502,Hypertension
+A003503,Obesity
+A003504,Hypertension
+A003504,COPD
+A003504,Obesity
+A003505,Diabetes
+A003505,Obesity
+A003505,Asthma
+A003506,COPD
+A003507,Hypertension
+A003507,COPD
+A003507,Heart Disease
+A003508,Hypertension
+A003509,Renal Disease
+A003509,COPD
+A003509,Heart Disease
+A003510,Obesity
+A003511,Liver Disease
+A003511,Heart Disease
+A003511,Asthma
+A003512,Diabetes
+A003512,Obesity
+A003512,Liver Disease
+A003513,Hypertension
+A003513,Asthma
+A003513,COPD
+A003514,Diabetes
+A003514,Liver Disease
+A003515,Asthma
+A003515,Hypertension
+A003516,Hypertension
+A003516,Asthma
+A003516,Liver Disease
+A003517,Renal Disease
+A003517,Asthma
+A003517,Hypertension
+A003519,Heart Disease
+A003519,Hypertension
+A003519,COPD
+A003522,Diabetes
+A003523,Heart Disease
+A003523,Diabetes
+A003523,COPD
+A003524,Obesity
+A003524,Diabetes
+A003524,Heart Disease
+A003525,Liver Disease
+A003525,COPD
+A003525,Hypertension
+A003526,Asthma
+A003526,Liver Disease
+A003527,Liver Disease
+A003527,Hypertension
+A003527,Asthma
+A003529,Obesity
+A003529,Heart Disease
+A003531,Renal Disease
+A003532,Obesity
+A003535,Renal Disease
+A003536,Diabetes
+A003536,Renal Disease
+A003537,Obesity
+A003537,Heart Disease
+A003538,Diabetes
+A003539,COPD
+A003539,Asthma
+A003540,Obesity
+A003540,Renal Disease
+A003542,Renal Disease
+A003542,Obesity
+A003542,Heart Disease
+A003543,Heart Disease
+A003543,Obesity
+A003545,Asthma
+A003546,Heart Disease
+A003546,Asthma
+A003546,Diabetes
+A003547,Liver Disease
+A003548,Liver Disease
+A003548,Renal Disease
+A003548,Hypertension
+A003549,Hypertension
+A003549,Obesity
+A003550,COPD
+A003550,Heart Disease
+A003552,Liver Disease
+A003552,Renal Disease
+A003553,Obesity
+A003553,Diabetes
+A003553,Asthma
+A003554,COPD
+A003556,Obesity
+A003556,Hypertension
+A003558,Renal Disease
+A003558,Liver Disease
+A003559,Liver Disease
+A003559,Heart Disease
+A003560,Hypertension
+A003561,COPD
+A003561,Hypertension
+A003561,Asthma
+A003562,Asthma
+A003562,COPD
+A003565,Hypertension
+A003565,Obesity
+A003565,Diabetes
+A003566,Diabetes
+A003566,COPD
+A003566,Asthma
+A003567,Diabetes
+A003567,COPD
+A003567,Heart Disease
+A003568,Liver Disease
+A003568,COPD
+A003568,Renal Disease
+A003570,Renal Disease
+A003571,Hypertension
+A003571,Obesity
+A003571,Asthma
+A003572,Hypertension
+A003572,Asthma
+A003573,Renal Disease
+A003573,Heart Disease
+A003573,Asthma
+A003574,Asthma
+A003575,Hypertension
+A003575,Heart Disease
+A003575,Obesity
+A003576,COPD
+A003576,Heart Disease
+A003577,Liver Disease
+A003577,Heart Disease
+A003577,Asthma
+A003578,COPD
+A003578,Asthma
+A003578,Heart Disease
+A003579,COPD
+A003579,Asthma
+A003580,Obesity
+A003580,Asthma
+A003581,Heart Disease
+A003581,Obesity
+A003582,Asthma
+A003583,Obesity
+A003583,Asthma
+A003584,Obesity
+A003584,Liver Disease
+A003584,Diabetes
+A003586,Diabetes
+A003586,Heart Disease
+A003586,Renal Disease
+A003587,COPD
+A003587,Hypertension
+A003587,Heart Disease
+A003588,Liver Disease
+A003588,Asthma
+A003589,COPD
+A003589,Renal Disease
+A003590,Heart Disease
+A003593,Hypertension
+A003594,Hypertension
+A003594,Liver Disease
+A003595,Liver Disease
+A003595,Renal Disease
+A003595,Hypertension
+A003597,Heart Disease
+A003597,Liver Disease
+A003597,Hypertension
+A003598,Hypertension
+A003598,Obesity
+A003603,Liver Disease
+A003603,Heart Disease
+A003604,Hypertension
+A003604,Asthma
+A003606,Heart Disease
+A003606,Asthma
+A003606,Obesity
+A003608,COPD
+A003608,Asthma
+A003608,Obesity
+A003609,Asthma
+A003610,Hypertension
+A003611,COPD
+A003611,Obesity
+A003611,Liver Disease
+A003612,Hypertension
+A003612,Renal Disease
+A003614,COPD
+A003614,Liver Disease
+A003615,Hypertension
+A003615,Diabetes
+A003615,Liver Disease
+A003617,Liver Disease
+A003617,Asthma
+A003618,Hypertension
+A003621,Heart Disease
+A003621,Diabetes
+A003621,Asthma
+A003623,Renal Disease
+A003623,COPD
+A003624,Hypertension
+A003624,Diabetes
+A003625,Heart Disease
+A003627,COPD
+A003627,Hypertension
+A003627,Diabetes
+A003629,Diabetes
+A003629,Heart Disease
+A003630,Renal Disease
+A003630,Diabetes
+A003631,Asthma
+A003631,Diabetes
+A003631,Hypertension
+A003633,Diabetes
+A003633,Heart Disease
+A003634,Obesity
+A003635,Diabetes
+A003635,COPD
+A003636,Heart Disease
+A003636,Diabetes
+A003636,Obesity
+A003637,Heart Disease
+A003638,Diabetes
+A003638,Heart Disease
+A003639,Heart Disease
+A003640,Renal Disease
+A003640,Obesity
+A003640,Diabetes
+A003643,Liver Disease
+A003644,Asthma
+A003644,Hypertension
+A003645,Hypertension
+A003649,Heart Disease
+A003649,Liver Disease
+A003649,COPD
+A003651,Obesity
+A003652,Obesity
+A003652,COPD
+A003652,Liver Disease
+A003653,Liver Disease
+A003654,Renal Disease
+A003656,Hypertension
+A003656,Asthma
+A003656,Liver Disease
+A003657,Heart Disease
+A003657,Renal Disease
+A003657,Obesity
+A003658,Hypertension
+A003658,Heart Disease
+A003658,Renal Disease
+A003660,COPD
+A003660,Asthma
+A003660,Renal Disease
+A003661,Liver Disease
+A003661,COPD
+A003661,Obesity
+A003663,Heart Disease
+A003663,Renal Disease
+A003663,Obesity
+A003664,COPD
+A003664,Renal Disease
+A003664,Diabetes
+A003665,Renal Disease
+A003665,Diabetes
+A003665,Obesity
+A003667,Heart Disease
+A003668,Renal Disease
+A003668,Liver Disease
+A003668,Obesity
+A003669,Heart Disease
+A003670,Hypertension
+A003670,Diabetes
+A003671,Obesity
+A003671,Asthma
+A003671,COPD
+A003672,Heart Disease
+A003673,COPD
+A003673,Diabetes
+A003675,Renal Disease
+A003675,Liver Disease
+A003676,COPD
+A003677,Liver Disease
+A003677,Asthma
+A003677,COPD
+A003678,Hypertension
+A003678,COPD
+A003678,Liver Disease
+A003680,Hypertension
+A003681,Hypertension
+A003682,COPD
+A003682,Renal Disease
+A003683,Heart Disease
+A003683,Asthma
+A003683,Renal Disease
+A003684,Liver Disease
+A003686,COPD
+A003686,Renal Disease
+A003687,Renal Disease
+A003688,Diabetes
+A003688,Obesity
+A003689,COPD
+A003689,Renal Disease
+A003690,Heart Disease
+A003690,Diabetes
+A003690,Renal Disease
+A003691,Obesity
+A003691,Heart Disease
+A003692,Asthma
+A003693,Hypertension
+A003693,Liver Disease
+A003694,Heart Disease
+A003695,Hypertension
+A003695,COPD
+A003696,Liver Disease
+A003696,Diabetes
+A003696,Asthma
+A003697,Heart Disease
+A003698,Heart Disease
+A003699,Heart Disease
+A003699,Diabetes
+A003700,COPD
+A003700,Renal Disease
+A003700,Diabetes
+A003701,Hypertension
+A003703,Diabetes
+A003703,Asthma
+A003703,Liver Disease
+A003704,Heart Disease
+A003704,Obesity
+A003706,Diabetes
+A003707,Diabetes
+A003707,Asthma
+A003711,Diabetes
+A003712,Hypertension
+A003712,Renal Disease
+A003713,Liver Disease
+A003713,Renal Disease
+A003714,Diabetes
+A003716,Obesity
+A003717,Asthma
+A003720,COPD
+A003721,Renal Disease
+A003721,Liver Disease
+A003721,Hypertension
+A003724,Obesity
+A003724,Liver Disease
+A003724,COPD
+A003725,Heart Disease
+A003726,COPD
+A003726,Heart Disease
+A003726,Hypertension
+A003727,Heart Disease
+A003727,Renal Disease
+A003728,Liver Disease
+A003728,Diabetes
+A003728,Renal Disease
+A003729,Heart Disease
+A003730,Renal Disease
+A003731,Liver Disease
+A003732,Liver Disease
+A003733,Renal Disease
+A003733,COPD
+A003734,Heart Disease
+A003735,Hypertension
+A003736,Hypertension
+A003737,Hypertension
+A003737,Renal Disease
+A003738,Liver Disease
+A003739,COPD
+A003740,Obesity
+A003741,COPD
+A003741,Renal Disease
+A003742,Obesity
+A003742,Heart Disease
+A003742,COPD
+A003743,Diabetes
+A003743,Obesity
+A003743,Renal Disease
+A003744,Liver Disease
+A003744,Renal Disease
+A003744,Heart Disease
+A003745,Liver Disease
+A003746,Asthma
+A003746,Diabetes
+A003746,Heart Disease
+A003747,Liver Disease
+A003747,Hypertension
+A003748,Obesity
+A003748,Renal Disease
+A003748,Diabetes
+A003749,Asthma
+A003749,Hypertension
+A003749,Heart Disease
+A003750,COPD
+A003750,Heart Disease
+A003751,Asthma
+A003751,Diabetes
+A003752,Liver Disease
+A003752,Hypertension
+A003753,COPD
+A003754,COPD
+A003754,Hypertension
+A003754,Obesity
+A003755,Hypertension
+A003756,Liver Disease
+A003757,Heart Disease
+A003757,Obesity
+A003759,Obesity
+A003759,Hypertension
+A003760,Hypertension
+A003760,Heart Disease
+A003760,COPD
+A003762,COPD
+A003762,Hypertension
+A003763,Heart Disease
+A003763,Liver Disease
+A003763,Diabetes
+A003764,Heart Disease
+A003764,COPD
+A003764,Obesity
+A003765,Diabetes
+A003765,Liver Disease
+A003766,Renal Disease
+A003768,Renal Disease
+A003768,Hypertension
+A003769,Diabetes
+A003769,COPD
+A003770,Renal Disease
+A003770,Diabetes
+A003771,Obesity
+A003772,Diabetes
+A003772,Heart Disease
+A003773,Heart Disease
+A003773,Asthma
+A003774,Obesity
+A003774,Renal Disease
+A003775,Hypertension
+A003775,Liver Disease
+A003775,Obesity
+A003776,COPD
+A003776,Hypertension
+A003776,Heart Disease
+A003778,Liver Disease
+A003779,Asthma
+A003779,Diabetes
+A003781,Heart Disease
+A003783,COPD
+A003783,Diabetes
+A003783,Liver Disease
+A003784,Obesity
+A003784,Asthma
+A003786,Heart Disease
+A003787,Liver Disease
+A003787,Diabetes
+A003789,Diabetes
+A003790,Asthma
+A003790,Hypertension
+A003790,Liver Disease
+A003792,Obesity
+A003793,COPD
+A003794,COPD
+A003794,Asthma
+A003794,Diabetes
+A003796,Liver Disease
+A003796,Renal Disease
+A003796,Asthma
+A003797,Heart Disease
+A003797,Asthma
+A003798,Diabetes
+A003798,Heart Disease
+A003798,Renal Disease
+A003799,COPD
+A003801,Obesity
+A003801,Liver Disease
+A003801,Heart Disease
+A003802,Renal Disease
+A003802,Heart Disease
+A003803,Liver Disease
+A003804,Diabetes
+A003804,COPD
+A003806,Heart Disease
+A003807,Liver Disease
+A003808,Hypertension
+A003808,Diabetes
+A003809,Hypertension
+A003810,Renal Disease
+A003811,Asthma
+A003811,Diabetes
+A003812,Diabetes
+A003813,Heart Disease
+A003813,Hypertension
+A003815,Diabetes
+A003816,Asthma
+A003816,Liver Disease
+A003816,Obesity
+A003818,Diabetes
+A003818,Obesity
+A003818,Hypertension
+A003819,Diabetes
+A003819,Asthma
+A003820,Liver Disease
+A003820,Renal Disease
+A003820,Heart Disease
+A003821,Renal Disease
+A003821,Diabetes
+A003822,Renal Disease
+A003826,Hypertension
+A003830,Heart Disease
+A003830,Diabetes
+A003830,COPD
+A003831,Asthma
+A003831,Diabetes
+A003832,Heart Disease
+A003832,Diabetes
+A003833,Renal Disease
+A003833,Hypertension
+A003833,Diabetes
+A003834,Liver Disease
+A003835,Liver Disease
+A003835,Asthma
+A003835,Renal Disease
+A003836,Renal Disease
+A003836,COPD
+A003836,Hypertension
+A003837,Diabetes
+A003837,COPD
+A003838,Asthma
+A003839,Diabetes
+A003840,Obesity
+A003840,Liver Disease
+A003840,Hypertension
+A003841,Obesity
+A003841,Liver Disease
+A003842,Heart Disease
+A003842,Diabetes
+A003842,Asthma
+A003844,Obesity
+A003844,Hypertension
+A003845,Obesity
+A003845,COPD
+A003845,Hypertension
+A003846,Renal Disease
+A003846,COPD
+A003847,Diabetes
+A003848,Diabetes
+A003848,Asthma
+A003849,Obesity
+A003849,Asthma
+A003850,Diabetes
+A003850,COPD
+A003853,Heart Disease
+A003854,Renal Disease
+A003855,Renal Disease
+A003855,Liver Disease
+A003855,Heart Disease
+A003857,COPD
+A003857,Renal Disease
+A003857,Asthma
+A003861,Diabetes
+A003861,Asthma
+A003862,COPD
+A003862,Heart Disease
+A003864,Hypertension
+A003864,Liver Disease
+A003864,Renal Disease
+A003865,COPD
+A003866,Asthma
+A003866,Heart Disease
+A003867,Renal Disease
+A003867,Heart Disease
+A003867,Hypertension
+A003868,Diabetes
+A003868,Obesity
+A003868,Asthma
+A003869,Obesity
+A003869,Renal Disease
+A003869,Hypertension
+A003871,Heart Disease
+A003871,COPD
+A003872,Diabetes
+A003872,COPD
+A003872,Heart Disease
+A003874,Renal Disease
+A003876,COPD
+A003877,Hypertension
+A003877,Diabetes
+A003877,Renal Disease
+A003878,Heart Disease
+A003878,Asthma
+A003879,Asthma
+A003879,Liver Disease
+A003880,COPD
+A003880,Hypertension
+A003881,Obesity
+A003882,Renal Disease
+A003883,Liver Disease
+A003884,Diabetes
+A003885,Diabetes
+A003885,Heart Disease
+A003886,Heart Disease
+A003886,Asthma
+A003886,Renal Disease
+A003888,Renal Disease
+A003888,Diabetes
+A003888,Obesity
+A003889,COPD
+A003889,Diabetes
+A003892,Liver Disease
+A003892,Hypertension
+A003892,Asthma
+A003894,Asthma
+A003894,Liver Disease
+A003894,COPD
+A003896,Heart Disease
+A003896,COPD
+A003896,Renal Disease
+A003897,Hypertension
+A003900,Asthma
+A003903,Hypertension
+A003903,Asthma
+A003903,Diabetes
+A003904,Diabetes
+A003906,Obesity
+A003906,COPD
+A003906,Heart Disease
+A003908,Hypertension
+A003909,Liver Disease
+A003911,Heart Disease
+A003911,Renal Disease
+A003911,Liver Disease
+A003912,Hypertension
+A003912,Renal Disease
+A003912,Heart Disease
+A003913,Asthma
+A003913,Renal Disease
+A003915,Liver Disease
+A003915,COPD
+A003916,COPD
+A003917,Obesity
+A003918,Diabetes
+A003918,COPD
+A003918,Obesity
+A003919,Renal Disease
+A003920,Asthma
+A003921,Hypertension
+A003921,Liver Disease
+A003922,Diabetes
+A003922,Liver Disease
+A003924,Renal Disease
+A003924,COPD
+A003925,Hypertension
+A003925,Heart Disease
+A003926,COPD
+A003926,Renal Disease
+A003927,Liver Disease
+A003927,Obesity
+A003927,Hypertension
+A003930,Diabetes
+A003934,Asthma
+A003935,COPD
+A003935,Liver Disease
+A003936,Obesity
+A003936,Hypertension
+A003936,COPD
+A003937,Heart Disease
+A003937,Obesity
+A003937,Asthma
+A003938,Heart Disease
+A003938,Asthma
+A003938,Hypertension
+A003940,Renal Disease
+A003941,Heart Disease
+A003942,Heart Disease
+A003942,Renal Disease
+A003943,Liver Disease
+A003943,Renal Disease
+A003943,Hypertension
+A003944,Diabetes
+A003945,Asthma
+A003945,Renal Disease
+A003947,COPD
+A003947,Asthma
+A003947,Diabetes
+A003949,Renal Disease
+A003949,Obesity
+A003950,COPD
+A003951,Heart Disease
+A003951,Renal Disease
+A003951,Asthma
+A003952,Diabetes
+A003953,Heart Disease
+A003954,Renal Disease
+A003954,COPD
+A003955,Asthma
+A003955,Diabetes
+A003956,Obesity
+A003956,Liver Disease
+A003956,Hypertension
+A003957,Liver Disease
+A003957,Diabetes
+A003959,Renal Disease
+A003959,Hypertension
+A003959,Heart Disease
+A003960,COPD
+A003960,Renal Disease
+A003960,Asthma
+A003961,Heart Disease
+A003961,Liver Disease
+A003962,Asthma
+A003962,Heart Disease
+A003962,Renal Disease
+A003963,Hypertension
+A003963,Liver Disease
+A003963,Heart Disease
+A003964,Obesity
+A003964,Liver Disease
+A003964,COPD
+A003965,Hypertension
+A003965,Renal Disease
+A003966,Diabetes
+A003967,Obesity
+A003968,Hypertension
+A003968,Diabetes
+A003968,Obesity
+A003969,Renal Disease
+A003972,Heart Disease
+A003972,Diabetes
+A003973,Diabetes
+A003973,Heart Disease
+A003975,Obesity
+A003975,Renal Disease
+A003975,Liver Disease
+A003976,Obesity
+A003979,Diabetes
+A003979,COPD
+A003979,Liver Disease
+A003982,Asthma
+A003985,Diabetes
+A003986,Hypertension
+A003988,COPD
+A003988,Diabetes
+A003988,Heart Disease
+A003989,Obesity
+A003989,Renal Disease
+A003990,COPD
+A003991,Hypertension
+A003993,Liver Disease
+A003993,Asthma
+A003993,COPD
+A003994,Obesity
+A003994,Diabetes
+A003994,Liver Disease
+A003995,Renal Disease
+A003995,COPD
+A003997,Heart Disease
+A003998,Liver Disease
+A003999,Hypertension
+A003999,COPD
+A004000,Obesity
+A004000,Renal Disease
+A004001,COPD
+A004001,Heart Disease
+A004001,Obesity
+A004002,Liver Disease
+A004002,Obesity
+A004002,Hypertension
+A004003,COPD
+A004003,Asthma
+A004004,Diabetes
+A004005,Obesity
+A004006,Asthma
+A004006,Diabetes
+A004008,Renal Disease
+A004009,Diabetes
+A004011,COPD
+A004011,Liver Disease
+A004013,Renal Disease
+A004013,Asthma
+A004014,Liver Disease
+A004014,Diabetes
+A004015,Diabetes
+A004015,Heart Disease
+A004015,Hypertension
+A004016,Obesity
+A004017,Asthma
+A004017,Heart Disease
+A004018,Obesity
+A004019,COPD
+A004020,Obesity
+A004020,COPD
+A004021,Liver Disease
+A004021,Renal Disease
+A004022,Heart Disease
+A004022,Hypertension
+A004022,Asthma
+A004024,Hypertension
+A004024,Diabetes
+A004024,Obesity
+A004025,Heart Disease
+A004025,Hypertension
+A004025,COPD
+A004026,Obesity
+A004026,Heart Disease
+A004027,Liver Disease
+A004027,Diabetes
+A004028,Obesity
+A004030,Hypertension
+A004030,Renal Disease
+A004030,Liver Disease
+A004032,Obesity
+A004032,Liver Disease
+A004033,Liver Disease
+A004033,Heart Disease
+A004034,Diabetes
+A004034,Hypertension
+A004034,Liver Disease
+A004035,Asthma
+A004035,Heart Disease
+A004035,Liver Disease
+A004036,Heart Disease
+A004036,COPD
+A004037,Asthma
+A004037,Renal Disease
+A004038,Heart Disease
+A004038,COPD
+A004038,Obesity
+A004039,Obesity
+A004039,Liver Disease
+A004039,Diabetes
+A004042,Liver Disease
+A004042,Asthma
+A004043,COPD
+A004044,Diabetes
+A004045,Hypertension
+A004045,Obesity
+A004045,COPD
+A004047,Hypertension
+A004047,Obesity
+A004047,COPD
+A004048,Hypertension
+A004048,Asthma
+A004049,COPD
+A004049,Heart Disease
+A004049,Diabetes
+A004050,Asthma
+A004051,Asthma
+A004051,Diabetes
+A004051,Renal Disease
+A004052,Heart Disease
+A004053,Asthma
+A004053,Heart Disease
+A004054,Heart Disease
+A004054,Obesity
+A004055,Renal Disease
+A004055,COPD
+A004055,Asthma
+A004056,Hypertension
+A004056,COPD
+A004056,Renal Disease
+A004057,Obesity
+A004057,Heart Disease
+A004058,Obesity
+A004058,Liver Disease
+A004059,Liver Disease
+A004059,Diabetes
+A004059,Hypertension
+A004060,Asthma
+A004061,Diabetes
+A004062,Hypertension
+A004062,Obesity
+A004064,Heart Disease
+A004064,Asthma
+A004065,Hypertension
+A004066,COPD
+A004067,Liver Disease
+A004067,Renal Disease
+A004068,Liver Disease
+A004069,COPD
+A004069,Hypertension
+A004070,Diabetes
+A004070,Liver Disease
+A004070,Renal Disease
+A004072,COPD
+A004073,Liver Disease
+A004073,COPD
+A004074,COPD
+A004074,Renal Disease
+A004074,Diabetes
+A004076,Hypertension
+A004077,Obesity
+A004077,Renal Disease
+A004079,Renal Disease
+A004079,Heart Disease
+A004079,Diabetes
+A004081,Heart Disease
+A004082,Asthma
+A004082,Hypertension
+A004085,Heart Disease
+A004085,Renal Disease
+A004085,Hypertension
+A004086,Asthma
+A004086,Diabetes
+A004086,Liver Disease
+A004087,COPD
+A004087,Diabetes
+A004088,COPD
+A004088,Heart Disease
+A004088,Diabetes
+A004091,Liver Disease
+A004092,COPD
+A004092,Asthma
+A004094,Liver Disease
+A004094,Renal Disease
+A004095,Renal Disease
+A004095,Liver Disease
+A004096,Diabetes
+A004097,Heart Disease
+A004098,Obesity
+A004099,Obesity
+A004100,Liver Disease
+A004102,Diabetes
+A004102,Hypertension
+A004104,COPD
+A004105,COPD
+A004105,Obesity
+A004105,Liver Disease
+A004107,Renal Disease
+A004109,Renal Disease
+A004109,Hypertension
+A004110,Obesity
+A004110,Renal Disease
+A004112,Diabetes
+A004112,COPD
+A004112,Obesity
+A004113,Heart Disease
+A004113,Obesity
+A004113,COPD
+A004114,Liver Disease
+A004114,COPD
+A004114,Heart Disease
+A004115,Hypertension
+A004116,COPD
+A004117,Liver Disease
+A004117,COPD
+A004117,Diabetes
+A004118,Heart Disease
+A004118,Renal Disease
+A004119,Liver Disease
+A004119,Heart Disease
+A004120,Renal Disease
+A004120,Asthma
+A004120,Obesity
+A004121,Asthma
+A004121,Liver Disease
+A004121,Renal Disease
+A004123,Liver Disease
+A004125,Heart Disease
+A004125,Obesity
+A004126,Diabetes
+A004127,Diabetes
+A004127,Heart Disease
+A004130,Asthma
+A004131,COPD
+A004131,Renal Disease
+A004131,Asthma
+A004134,Renal Disease
+A004134,Diabetes
+A004134,Obesity
+A004135,Hypertension
+A004135,COPD
+A004135,Liver Disease
+A004137,Renal Disease
+A004138,COPD
+A004138,Liver Disease
+A004139,Obesity
+A004139,COPD
+A004140,Heart Disease
+A004141,Asthma
+A004142,Liver Disease
+A004143,Obesity
+A004143,Asthma
+A004144,Hypertension
+A004147,Heart Disease
+A004148,Renal Disease
+A004150,Asthma
+A004152,Liver Disease
+A004152,COPD
+A004152,Hypertension
+A004153,Asthma
+A004153,Liver Disease
+A004154,Renal Disease
+A004154,Obesity
+A004154,Liver Disease
+A004155,COPD
+A004155,Heart Disease
+A004155,Asthma
+A004157,Renal Disease
+A004157,Asthma
+A004157,Liver Disease
+A004161,Asthma
+A004162,Diabetes
+A004162,Heart Disease
+A004162,Hypertension
+A004164,Heart Disease
+A004164,Obesity
+A004165,Obesity
+A004165,Heart Disease
+A004165,Liver Disease
+A004167,COPD
+A004167,Renal Disease
+A004167,Liver Disease
+A004169,Hypertension
+A004169,Diabetes
+A004169,Heart Disease
+A004172,Heart Disease
+A004172,COPD
+A004172,Renal Disease
+A004173,Liver Disease
+A004173,Renal Disease
+A004173,Diabetes
+A004174,Liver Disease
+A004174,Asthma
+A004175,Liver Disease
+A004177,COPD
+A004177,Diabetes
+A004178,Obesity
+A004179,Obesity
+A004179,Diabetes
+A004181,Diabetes
+A004181,COPD
+A004182,Heart Disease
+A004184,Obesity
+A004184,Asthma
+A004185,Asthma
+A004185,Renal Disease
+A004185,Hypertension
+A004187,Renal Disease
+A004187,Hypertension
+A004188,COPD
+A004188,Asthma
+A004188,Obesity
+A004189,Hypertension
+A004189,Asthma
+A004191,Obesity
+A004191,Asthma
+A004192,Asthma
+A004192,Hypertension
+A004192,Heart Disease
+A004194,Liver Disease
+A004194,COPD
+A004194,Renal Disease
+A004195,Renal Disease
+A004195,Diabetes
+A004196,Diabetes
+A004196,COPD
+A004196,Hypertension
+A004197,Diabetes
+A004197,Asthma
+A004197,Obesity
+A004199,Asthma
+A004200,Obesity
+A004200,Hypertension
+A004200,Heart Disease
+A004202,Hypertension
+A004202,Diabetes
+A004204,Diabetes
+A004204,Asthma
+A004205,Hypertension
+A004206,Obesity
+A004206,Asthma
+A004206,Liver Disease
+A004207,Liver Disease
+A004207,Asthma
+A004207,Hypertension
+A004209,Obesity
+A004210,Hypertension
+A004210,COPD
+A004210,Heart Disease
+A004211,Liver Disease
+A004211,Renal Disease
+A004212,Asthma
+A004215,COPD
+A004215,Obesity
+A004216,Liver Disease
+A004217,Diabetes
+A004218,COPD
+A004219,Liver Disease
+A004220,COPD
+A004220,Asthma
+A004220,Renal Disease
+A004221,Hypertension
+A004221,Renal Disease
+A004221,Heart Disease
+A004222,Diabetes
+A004222,Asthma
+A004222,Obesity
+A004223,Heart Disease
+A004223,Renal Disease
+A004224,Hypertension
+A004224,Liver Disease
+A004225,Hypertension
+A004226,Heart Disease
+A004226,Obesity
+A004226,Renal Disease
+A004229,Liver Disease
+A004229,Hypertension
+A004230,Asthma
+A004230,Hypertension
+A004231,Renal Disease
+A004232,Liver Disease
+A004233,Renal Disease
+A004234,Obesity
+A004235,COPD
+A004235,Asthma
+A004236,Obesity
+A004236,COPD
+A004238,Obesity
+A004240,Obesity
+A004241,Asthma
+A004241,COPD
+A004242,Obesity
+A004243,Obesity
+A004243,Heart Disease
+A004244,Diabetes
+A004247,Diabetes
+A004247,Asthma
+A004247,Renal Disease
+A004251,Obesity
+A004251,Liver Disease
+A004251,Asthma
+A004253,Renal Disease
+A004253,Obesity
+A004256,Hypertension
+A004256,Obesity
+A004257,Hypertension
+A004257,Liver Disease
+A004257,COPD
+A004258,COPD
+A004260,Obesity
+A004260,COPD
+A004261,Obesity
+A004261,COPD
+A004263,COPD
+A004263,Obesity
+A004265,COPD
+A004265,Hypertension
+A004265,Obesity
+A004266,Liver Disease
+A004266,Obesity
+A004266,Diabetes
+A004267,Heart Disease
+A004268,Heart Disease
+A004270,Hypertension
+A004270,COPD
+A004271,COPD
+A004274,COPD
+A004274,Diabetes
+A004275,Diabetes
+A004275,Liver Disease
+A004277,Liver Disease
+A004277,Asthma
+A004278,Diabetes
+A004278,Heart Disease
+A004280,Obesity
+A004280,COPD
+A004281,Diabetes
+A004282,Diabetes
+A004283,Liver Disease
+A004284,Obesity
+A004284,Diabetes
+A004284,Hypertension
+A004285,Renal Disease
+A004285,Obesity
+A004285,Heart Disease
+A004286,COPD
+A004286,Renal Disease
+A004287,Heart Disease
+A004288,Renal Disease
+A004288,Diabetes
+A004289,Hypertension
+A004289,Heart Disease
+A004291,Liver Disease
+A004291,Diabetes
+A004291,Asthma
+A004292,Heart Disease
+A004292,Obesity
+A004293,Asthma
+A004293,Liver Disease
+A004293,Diabetes
+A004294,Liver Disease
+A004296,Liver Disease
+A004296,Asthma
+A004297,Diabetes
+A004297,Renal Disease
+A004298,Heart Disease
+A004298,Obesity
+A004300,COPD
+A004300,Obesity
+A004301,Diabetes
+A004301,Heart Disease
+A004301,Obesity
+A004302,Renal Disease
+A004302,Diabetes
+A004303,Diabetes
+A004303,Heart Disease
+A004306,Diabetes
+A004306,Hypertension
+A004306,Renal Disease
+A004307,Hypertension
+A004309,Hypertension
+A004309,Asthma
+A004309,Renal Disease
+A004310,Heart Disease
+A004310,COPD
+A004310,Diabetes
+A004311,Liver Disease
+A004311,Renal Disease
+A004311,COPD
+A004313,Liver Disease
+A004314,Renal Disease
+A004314,Diabetes
+A004315,Renal Disease
+A004316,Hypertension
+A004316,Heart Disease
+A004316,Asthma
+A004317,Obesity
+A004317,Hypertension
+A004317,Diabetes
+A004318,Liver Disease
+A004318,Heart Disease
+A004319,Liver Disease
+A004319,Heart Disease
+A004319,Obesity
+A004320,COPD
+A004320,Liver Disease
+A004320,Hypertension
+A004321,Liver Disease
+A004322,Renal Disease
+A004324,Liver Disease
+A004324,COPD
+A004324,Obesity
+A004325,Asthma
+A004325,COPD
+A004328,COPD
+A004328,Liver Disease
+A004328,Renal Disease
+A004329,Hypertension
+A004331,Renal Disease
+A004331,Diabetes
+A004332,Diabetes
+A004332,Hypertension
+A004333,Diabetes
+A004334,Diabetes
+A004334,Hypertension
+A004335,Renal Disease
+A004335,Hypertension
+A004336,Obesity
+A004337,COPD
+A004337,Diabetes
+A004337,Renal Disease
+A004338,Heart Disease
+A004339,Obesity
+A004339,Hypertension
+A004341,Diabetes
+A004341,COPD
+A004341,Liver Disease
+A004342,Heart Disease
+A004342,Diabetes
+A004342,Liver Disease
+A004343,Obesity
+A004343,Asthma
+A004344,Asthma
+A004345,Asthma
+A004345,Hypertension
+A004345,Diabetes
+A004347,Liver Disease
+A004348,COPD
+A004348,Asthma
+A004348,Liver Disease
+A004349,Hypertension
+A004349,Renal Disease
+A004350,Liver Disease
+A004350,COPD
+A004350,Heart Disease
+A004351,Hypertension
+A004351,Heart Disease
+A004351,Obesity
+A004352,COPD
+A004355,Renal Disease
+A004357,Hypertension
+A004359,Asthma
+A004359,Hypertension
+A004360,Obesity
+A004361,Asthma
+A004363,Obesity
+A004364,Asthma
+A004365,Heart Disease
+A004367,Renal Disease
+A004367,Asthma
+A004367,Hypertension
+A004369,Renal Disease
+A004369,Asthma
+A004369,Obesity
+A004370,Liver Disease
+A004370,Hypertension
+A004372,Hypertension
+A004372,Heart Disease
+A004374,COPD
+A004375,Asthma
+A004375,Diabetes
+A004376,COPD
+A004377,Heart Disease
+A004377,Diabetes
+A004380,Liver Disease
+A004380,COPD
+A004380,Renal Disease
+A004381,COPD
+A004381,Renal Disease
+A004382,Heart Disease
+A004382,Diabetes
+A004383,Hypertension
+A004383,Obesity
+A004384,COPD
+A004385,Hypertension
+A004386,Obesity
+A004386,COPD
+A004387,Heart Disease
+A004387,Asthma
+A004388,COPD
+A004388,Obesity
+A004388,Liver Disease
+A004389,Asthma
+A004389,Hypertension
+A004389,COPD
+A004390,Diabetes
+A004390,Renal Disease
+A004391,Liver Disease
+A004391,Hypertension
+A004391,Diabetes
+A004392,Heart Disease
+A004392,Asthma
+A004392,COPD
+A004394,Heart Disease
+A004394,Hypertension
+A004395,Hypertension
+A004395,Heart Disease
+A004397,Liver Disease
+A004397,COPD
+A004398,Renal Disease
+A004398,Asthma
+A004399,Obesity
+A004399,Liver Disease
+A004400,Hypertension
+A004400,Renal Disease
+A004402,Asthma
+A004406,Obesity
+A004407,Obesity
+A004407,Hypertension
+A004407,Diabetes
+A004408,Hypertension
+A004408,Renal Disease
+A004408,Heart Disease
+A004409,COPD
+A004409,Heart Disease
+A004410,Hypertension
+A004410,Asthma
+A004412,Liver Disease
+A004416,Asthma
+A004416,Hypertension
+A004417,Diabetes
+A004418,Obesity
+A004419,Renal Disease
+A004419,Liver Disease
+A004420,Obesity
+A004421,COPD
+A004421,Renal Disease
+A004422,Liver Disease
+A004422,COPD
+A004422,Hypertension
+A004423,Hypertension
+A004423,Heart Disease
+A004424,Obesity
+A004424,Diabetes
+A004427,Heart Disease
+A004428,COPD
+A004430,Diabetes
+A004432,Obesity
+A004432,Heart Disease
+A004432,COPD
+A004434,Diabetes
+A004434,COPD
+A004434,Renal Disease
+A004436,Renal Disease
+A004437,Asthma
+A004438,COPD
+A004438,Diabetes
+A004439,Hypertension
+A004440,Hypertension
+A004440,Diabetes
+A004440,Liver Disease
+A004442,Renal Disease
+A004442,Hypertension
+A004443,Obesity
+A004444,Renal Disease
+A004444,Hypertension
+A004444,Liver Disease
+A004445,Asthma
+A004445,COPD
+A004446,Obesity
+A004447,Asthma
+A004447,Diabetes
+A004448,Renal Disease
+A004452,Liver Disease
+A004452,Hypertension
+A004452,Renal Disease
+A004453,Obesity
+A004453,Asthma
+A004453,Heart Disease
+A004454,Hypertension
+A004454,Liver Disease
+A004454,COPD
+A004457,Obesity
+A004460,Hypertension
+A004461,Diabetes
+A004462,Hypertension
+A004462,Diabetes
+A004463,Asthma
+A004463,Heart Disease
+A004464,Heart Disease
+A004466,Asthma
+A004466,Renal Disease
+A004466,COPD
+A004467,Heart Disease
+A004467,Renal Disease
+A004468,Obesity
+A004468,COPD
+A004468,Renal Disease
+A004469,Diabetes
+A004469,COPD
+A004470,Diabetes
+A004470,COPD
+A004472,Heart Disease
+A004472,COPD
+A004473,Renal Disease
+A004473,Liver Disease
+A004473,COPD
+A004474,COPD
+A004474,Liver Disease
+A004474,Obesity
+A004475,Heart Disease
+A004475,Renal Disease
+A004475,Asthma
+A004477,COPD
+A004477,Asthma
+A004477,Hypertension
+A004479,Renal Disease
+A004479,COPD
+A004479,Liver Disease
+A004480,COPD
+A004480,Obesity
+A004480,Asthma
+A004481,Obesity
+A004482,Renal Disease
+A004483,Hypertension
+A004487,Diabetes
+A004487,Liver Disease
+A004488,Diabetes
+A004489,Diabetes
+A004489,Renal Disease
+A004489,Hypertension
+A004490,Liver Disease
+A004491,COPD
+A004491,Obesity
+A004491,Diabetes
+A004492,COPD
+A004492,Asthma
+A004492,Diabetes
+A004493,COPD
+A004493,Liver Disease
+A004493,Hypertension
+A004494,Obesity
+A004494,Asthma
+A004494,Heart Disease
+A004495,Diabetes
+A004495,Obesity
+A004495,COPD
+A004496,Heart Disease
+A004496,Obesity
+A004496,COPD
+A004497,Heart Disease
+A004497,Obesity
+A004498,Hypertension
+A004499,Renal Disease
+A004499,Asthma
+A004500,Diabetes
+A004501,Heart Disease
+A004501,COPD
+A004501,Obesity
+A004502,Heart Disease
+A004503,Obesity
+A004503,Diabetes
+A004503,Hypertension
+A004505,Diabetes
+A004505,COPD
+A004506,Liver Disease
+A004506,Diabetes
+A004506,COPD
+A004507,Obesity
+A004507,Heart Disease
+A004507,Diabetes
+A004508,Hypertension
+A004508,Heart Disease
+A004509,COPD
+A004509,Obesity
+A004509,Heart Disease
+A004510,Liver Disease
+A004510,COPD
+A004512,Hypertension
+A004513,COPD
+A004515,Obesity
+A004517,Renal Disease
+A004517,Heart Disease
+A004517,Asthma
+A004519,Liver Disease
+A004519,Heart Disease
+A004519,Renal Disease
+A004520,Renal Disease
+A004521,Heart Disease
+A004522,Diabetes
+A004523,Liver Disease
+A004523,Heart Disease
+A004523,Asthma
+A004524,Renal Disease
+A004529,Heart Disease
+A004529,Renal Disease
+A004529,Obesity
+A004530,Diabetes
+A004531,Diabetes
+A004532,Renal Disease
+A004532,Asthma
+A004532,Heart Disease
+A004533,Hypertension
+A004533,Asthma
+A004535,COPD
+A004535,Hypertension
+A004537,COPD
+A004537,Asthma
+A004537,Liver Disease
+A004538,Hypertension
+A004539,Hypertension
+A004540,Obesity
+A004540,Hypertension
+A004540,Asthma
+A004541,Obesity
+A004541,Asthma
+A004541,Renal Disease
+A004542,Hypertension
+A004542,COPD
+A004542,Renal Disease
+A004543,Heart Disease
+A004543,Asthma
+A004543,Obesity
+A004544,Diabetes
+A004547,Liver Disease
+A004548,Asthma
+A004548,Renal Disease
+A004549,COPD
+A004550,Diabetes
+A004552,Diabetes
+A004553,COPD
+A004553,Renal Disease
+A004554,Heart Disease
+A004554,Hypertension
+A004555,Hypertension
+A004555,Obesity
+A004555,Heart Disease
+A004556,Obesity
+A004558,Asthma
+A004558,COPD
+A004560,Heart Disease
+A004560,Hypertension
+A004561,Hypertension
+A004561,COPD
+A004562,Renal Disease
+A004566,Obesity
+A004566,Heart Disease
+A004567,Hypertension
+A004567,COPD
+A004567,Renal Disease
+A004570,Diabetes
+A004572,Heart Disease
+A004572,Asthma
+A004573,Renal Disease
+A004575,Renal Disease
+A004575,COPD
+A004575,Hypertension
+A004576,Asthma
+A004579,Diabetes
+A004580,Diabetes
+A004580,COPD
+A004582,Asthma
+A004582,Renal Disease
+A004583,Liver Disease
+A004586,Hypertension
+A004586,COPD
+A004587,Renal Disease
+A004587,COPD
+A004588,Asthma
+A004590,Asthma
+A004591,Diabetes
+A004593,COPD
+A004593,Asthma
+A004597,COPD
+A004598,COPD
+A004598,Hypertension
+A004598,Liver Disease
+A004599,Asthma
+A004599,Heart Disease
+A004599,Diabetes
+A004601,Hypertension
+A004602,Renal Disease
+A004602,Liver Disease
+A004602,Obesity
+A004604,Diabetes
+A004604,Heart Disease
+A004604,Renal Disease
+A004605,COPD
+A004605,Asthma
+A004605,Obesity
+A004606,COPD
+A004606,Hypertension
+A004606,Renal Disease
+A004607,Hypertension
+A004607,Asthma
+A004607,Obesity
+A004608,Hypertension
+A004608,Obesity
+A004608,Heart Disease
+A004610,Obesity
+A004610,Diabetes
+A004610,Heart Disease
+A004612,Hypertension
+A004612,Heart Disease
+A004613,Hypertension
+A004613,Liver Disease
+A004613,Obesity
+A004615,Renal Disease
+A004615,Heart Disease
+A004615,Asthma
+A004616,Renal Disease
+A004616,COPD
+A004616,Asthma
+A004617,Asthma
+A004619,Heart Disease
+A004619,COPD
+A004620,Asthma
+A004620,Heart Disease
+A004620,Liver Disease
+A004621,COPD
+A004622,COPD
+A004622,Hypertension
+A004622,Diabetes
+A004623,Asthma
+A004625,COPD
+A004625,Hypertension
+A004625,Obesity
+A004626,Asthma
+A004626,Renal Disease
+A004626,COPD
+A004629,Liver Disease
+A004629,COPD
+A004629,Hypertension
+A004630,Obesity
+A004630,Renal Disease
+A004630,Diabetes
+A004631,Asthma
+A004633,Liver Disease
+A004633,COPD
+A004633,Heart Disease
+A004634,Liver Disease
+A004634,Asthma
+A004634,Renal Disease
+A004636,Liver Disease
+A004636,Diabetes
+A004638,Asthma
+A004640,Diabetes
+A004640,COPD
+A004640,Hypertension
+A004643,Hypertension
+A004643,Heart Disease
+A004643,Liver Disease
+A004645,Liver Disease
+A004646,Diabetes
+A004646,Asthma
+A004648,Diabetes
+A004649,Diabetes
+A004649,Liver Disease
+A004650,Obesity
+A004650,Heart Disease
+A004650,Hypertension
+A004651,Obesity
+A004651,Liver Disease
+A004652,COPD
+A004652,Hypertension
+A004652,Liver Disease
+A004653,COPD
+A004653,Asthma
+A004653,Renal Disease
+A004654,Obesity
+A004654,Renal Disease
+A004654,Asthma
+A004655,Obesity
+A004655,COPD
+A004656,COPD
+A004657,Heart Disease
+A004657,Diabetes
+A004657,Asthma
+A004658,Hypertension
+A004659,Asthma
+A004659,Renal Disease
+A004660,Diabetes
+A004660,Heart Disease
+A004660,Renal Disease
+A004661,COPD
+A004661,Diabetes
+A004663,Asthma
+A004663,Heart Disease
+A004668,Asthma
+A004669,Diabetes
+A004669,Obesity
+A004670,Heart Disease
+A004672,Diabetes
+A004672,COPD
+A004673,Obesity
+A004673,Renal Disease
+A004673,Diabetes
+A004676,Diabetes
+A004676,COPD
+A004676,Heart Disease
+A004677,Hypertension
+A004677,Liver Disease
+A004677,Heart Disease
+A004678,COPD
+A004678,Asthma
+A004678,Renal Disease
+A004679,Renal Disease
+A004679,Heart Disease
+A004680,Hypertension
+A004680,Asthma
+A004681,Diabetes
+A004681,COPD
+A004681,Liver Disease
+A004683,Heart Disease
+A004683,Renal Disease
+A004684,Hypertension
+A004685,Obesity
+A004686,Renal Disease
+A004689,Obesity
+A004689,Liver Disease
+A004691,Asthma
+A004691,Renal Disease
+A004692,Asthma
+A004693,Asthma
+A004693,Hypertension
+A004693,Renal Disease
+A004694,Hypertension
+A004695,COPD
+A004695,Heart Disease
+A004698,Renal Disease
+A004698,Obesity
+A004698,Diabetes
+A004699,Asthma
+A004699,COPD
+A004699,Liver Disease
+A004702,COPD
+A004702,Diabetes
+A004705,Hypertension
+A004705,Renal Disease
+A004706,Obesity
+A004706,Liver Disease
+A004706,Hypertension
+A004709,Asthma
+A004709,Liver Disease
+A004710,Heart Disease
+A004710,Liver Disease
+A004710,COPD
+A004713,Hypertension
+A004713,Heart Disease
+A004713,COPD
+A004714,Diabetes
+A004716,Liver Disease
+A004716,Asthma
+A004717,Renal Disease
+A004717,Hypertension
+A004717,Liver Disease
+A004718,COPD
+A004718,Obesity
+A004718,Liver Disease
+A004719,Obesity
+A004719,Liver Disease
+A004720,Obesity
+A004721,Liver Disease
+A004721,Asthma
+A004722,Hypertension
+A004722,Diabetes
+A004722,Obesity
+A004723,COPD
+A004723,Asthma
+A004723,Heart Disease
+A004724,Liver Disease
+A004725,Diabetes
+A004726,Obesity
+A004726,Heart Disease
+A004727,Heart Disease
+A004727,Asthma
+A004727,Liver Disease
+A004728,Diabetes
+A004729,Liver Disease
+A004729,Hypertension
+A004731,Obesity
+A004731,Hypertension
+A004732,Obesity
+A004732,Renal Disease
+A004733,Renal Disease
+A004734,Heart Disease
+A004735,Hypertension
+A004735,Diabetes
+A004743,Hypertension
+A004743,Diabetes
+A004745,Obesity
+A004746,Hypertension
+A004747,Renal Disease
+A004747,Heart Disease
+A004747,Hypertension
+A004750,Renal Disease
+A004751,Diabetes
+A004752,Diabetes
+A004752,COPD
+A004753,Asthma
+A004753,COPD
+A004754,Obesity
+A004754,Renal Disease
+A004754,Heart Disease
+A004755,Asthma
+A004758,Heart Disease
+A004758,Liver Disease
+A004760,Liver Disease
+A004761,Obesity
+A004762,Liver Disease
+A004763,Liver Disease
+A004763,Heart Disease
+A004763,Renal Disease
+A004764,Hypertension
+A004764,Obesity
+A004765,Liver Disease
+A004765,COPD
+A004765,Diabetes
+A004766,Asthma
+A004768,Hypertension
+A004769,Obesity
+A004769,COPD
+A004770,Obesity
+A004771,Renal Disease
+A004771,Liver Disease
+A004771,COPD
+A004772,Asthma
+A004773,Hypertension
+A004773,Renal Disease
+A004773,Asthma
+A004774,Asthma
+A004774,Renal Disease
+A004774,Hypertension
+A004775,Asthma
+A004776,Heart Disease
+A004776,Liver Disease
+A004778,Renal Disease
+A004778,Liver Disease
+A004778,Obesity
+A004779,Asthma
+A004780,COPD
+A004781,Asthma
+A004781,Renal Disease
+A004781,Liver Disease
+A004782,Liver Disease
+A004782,Obesity
+A004783,Heart Disease
+A004783,Liver Disease
+A004783,Asthma
+A004784,Hypertension
+A004784,Renal Disease
+A004787,Obesity
+A004789,COPD
+A004790,Asthma
+A004790,Liver Disease
+A004791,Liver Disease
+A004793,Heart Disease
+A004793,Asthma
+A004793,Liver Disease
+A004794,Heart Disease
+A004794,Liver Disease
+A004795,COPD
+A004796,Hypertension
+A004797,Asthma
+A004797,Liver Disease
+A004799,Liver Disease
+A004799,Asthma
+A004799,Obesity
+A004801,Asthma
+A004801,Heart Disease
+A004802,Asthma
+A004804,Asthma
+A004804,Diabetes
+A004805,Hypertension
+A004805,Liver Disease
+A004806,Renal Disease
+A004806,Liver Disease
+A004807,Heart Disease
+A004807,Asthma
+A004807,Hypertension
+A004810,Asthma
+A004811,Heart Disease
+A004811,Obesity
+A004811,Liver Disease
+A004812,Asthma
+A004813,Hypertension
+A004813,COPD
+A004814,Heart Disease
+A004815,Asthma
+A004815,COPD
+A004817,Obesity
+A004817,Asthma
+A004819,Renal Disease
+A004819,Asthma
+A004819,Liver Disease
+A004820,Obesity
+A004820,Liver Disease
+A004820,Diabetes
+A004822,COPD
+A004822,Asthma
+A004822,Diabetes
+A004823,Asthma
+A004824,Renal Disease
+A004824,Obesity
+A004824,Asthma
+A004825,Renal Disease
+A004825,Heart Disease
+A004825,Hypertension
+A004827,Obesity
+A004828,Heart Disease
+A004828,Hypertension
+A004830,COPD
+A004831,Obesity
+A004831,Liver Disease
+A004832,Obesity
+A004832,Diabetes
+A004833,Obesity
+A004833,Diabetes
+A004833,Asthma
+A004835,Liver Disease
+A004835,Renal Disease
+A004835,COPD
+A004836,Asthma
+A004836,Hypertension
+A004836,Diabetes
+A004838,Renal Disease
+A004838,Hypertension
+A004839,Hypertension
+A004841,COPD
+A004841,Hypertension
+A004841,Asthma
+A004842,Diabetes
+A004843,Diabetes
+A004846,Renal Disease
+A004846,Obesity
+A004847,Asthma
+A004847,Obesity
+A004849,Diabetes
+A004852,Obesity
+A004852,COPD
+A004852,Hypertension
+A004857,Liver Disease
+A004857,COPD
+A004857,Hypertension
+A004859,Asthma
+A004859,Heart Disease
+A004859,Liver Disease
+A004860,Liver Disease
+A004861,Diabetes
+A004861,Heart Disease
+A004861,Liver Disease
+A004862,Heart Disease
+A004862,Asthma
+A004862,Liver Disease
+A004864,Heart Disease
+A004865,Hypertension
+A004865,Asthma
+A004866,Heart Disease
+A004866,Obesity
+A004867,Obesity
+A004868,Diabetes
+A004868,COPD
+A004868,Asthma
+A004869,COPD
+A004869,Obesity
+A004870,Asthma
+A004870,Obesity
+A004870,COPD
+A004871,Obesity
+A004872,COPD
+A004873,Liver Disease
+A004874,Hypertension
+A004874,Diabetes
+A004875,Hypertension
+A004875,Asthma
+A004876,Renal Disease
+A004876,Obesity
+A004878,Diabetes
+A004878,COPD
+A004879,Renal Disease
+A004879,Diabetes
+A004880,COPD
+A004880,Asthma
+A004881,Hypertension
+A004881,Renal Disease
+A004882,Renal Disease
+A004883,Heart Disease
+A004883,Obesity
+A004884,Heart Disease
+A004884,Obesity
+A004884,COPD
+A004886,Liver Disease
+A004886,Asthma
+A004887,Hypertension
+A004887,Liver Disease
+A004887,Renal Disease
+A004888,Liver Disease
+A004890,Heart Disease
+A004890,Obesity
+A004891,Liver Disease
+A004892,COPD
+A004892,Renal Disease
+A004892,Obesity
+A004894,Hypertension
+A004894,Asthma
+A004895,Asthma
+A004895,COPD
+A004895,Heart Disease
+A004896,Asthma
+A004896,Diabetes
+A004897,Liver Disease
+A004897,Diabetes
+A004898,Asthma
+A004900,COPD
+A004901,Liver Disease
+A004901,Heart Disease
+A004902,Renal Disease
+A004902,Obesity
+A004903,Renal Disease
+A004903,Liver Disease
+A004904,Liver Disease
+A004904,Heart Disease
+A004905,Obesity
+A004905,Liver Disease
+A004906,Renal Disease
+A004907,Asthma
+A004908,Hypertension
+A004909,Liver Disease
+A004910,Diabetes
+A004911,Renal Disease
+A004911,Heart Disease
+A004914,Renal Disease
+A004915,Hypertension
+A004915,COPD
+A004917,Heart Disease
+A004917,Obesity
+A004918,COPD
+A004918,Asthma
+A004918,Hypertension
+A004919,Diabetes
+A004920,Obesity
+A004920,Heart Disease
+A004921,Renal Disease
+A004921,COPD
+A004921,Diabetes
+A004922,Diabetes
+A004922,Asthma
+A004924,Liver Disease
+A004924,Asthma
+A004924,Hypertension
+A004925,Heart Disease
+A004925,Obesity
+A004926,Asthma
+A004927,Obesity
+A004927,COPD
+A004927,Diabetes
+A004928,COPD
+A004930,Liver Disease
+A004930,Heart Disease
+A004931,Heart Disease
+A004931,Liver Disease
+A004931,Diabetes
+A004932,Renal Disease
+A004932,COPD
+A004932,Diabetes
+A004935,Diabetes
+A004935,COPD
+A004936,Diabetes
+A004936,Heart Disease
+A004936,COPD
+A004939,Renal Disease
+A004939,Obesity
+A004939,COPD
+A004940,Renal Disease
+A004941,Asthma
+A004941,Obesity
+A004943,Heart Disease
+A004943,Asthma
+A004945,Heart Disease
+A004945,Asthma
+A004946,Obesity
+A004948,Obesity
+A004948,Heart Disease
+A004950,Obesity
+A004950,Diabetes
+A004950,Asthma
+A004951,Hypertension
+A004951,Asthma
+A004951,Diabetes
+A004952,Heart Disease
+A004953,COPD
+A004954,Diabetes
+A004954,Obesity
+A004955,Heart Disease
+A004955,Asthma
+A004955,Diabetes
+A004956,Liver Disease
+A004957,Renal Disease
+A004957,COPD
+A004957,Heart Disease
+A004958,Diabetes
+A004958,Obesity
+A004959,Heart Disease
+A004961,Heart Disease
+A004961,Hypertension
+A004961,Renal Disease
+A004962,Hypertension
+A004962,COPD
+A004962,Asthma
+A004963,Diabetes
+A004963,Asthma
+A004964,Asthma
+A004964,Diabetes
+A004965,Obesity
+A004965,COPD
+A004967,Hypertension
+A004968,Diabetes
+A004968,Hypertension
+A004969,COPD
+A004969,Obesity
+A004969,Asthma
+A004970,Asthma
+A004970,Hypertension
+A004970,Obesity
+A004972,Liver Disease
+A004972,Hypertension
+A004972,Diabetes
+A004973,Renal Disease
+A004975,Heart Disease
+A004976,Renal Disease
+A004977,Obesity
+A004977,Renal Disease
+A004977,Asthma
+A004978,Obesity
+A004978,Liver Disease
+A004978,Asthma
+A004979,Hypertension
+A004979,Renal Disease
+A004980,Liver Disease
+A004980,COPD
+A004981,Hypertension
+A004982,Hypertension
+A004982,Asthma
+A004982,COPD
+A004984,Renal Disease
+A004984,Asthma
+A004985,Hypertension
+A004985,Diabetes
+A004985,COPD
+A004988,Heart Disease
+A004988,Asthma
+A004988,Liver Disease
+A004989,Obesity
+A004990,Heart Disease
+A004990,Hypertension
+A004991,Liver Disease
+A004991,COPD
+A004991,Obesity
+A004992,Asthma
+A004992,Liver Disease
+A004993,Renal Disease
+A004994,Diabetes
+A004994,Obesity
+A004995,Asthma
+A004996,Hypertension
+A004996,Diabetes
+A004997,Obesity
+A004997,Hypertension
+A004998,COPD
+A005000,Asthma
+A005000,Obesity
+A005000,Hypertension
