@@ -1,11 +1,17 @@
+import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
+# --- BASE DIRECTORY FOR ROBUST DEPLOYMENT ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(BASE_DIR, "logo.png")
+
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="FARMSIGHT Crop & Weather Dashboard", layout="wide")
-st.sidebar.image("logo.png", width=140)
+if os.path.exists(logo_path):
+    st.sidebar.image(logo_path, width=140)
 
 # Sidebar styles
 st.sidebar.markdown("""
@@ -29,7 +35,8 @@ st.sidebar.markdown("""
 # --- LOAD DATA ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv("crop and weather new.csv")
+    csv_path = os.path.join(BASE_DIR, "crop and weather new.csv")
+    df = pd.read_csv(csv_path)
     df['Date'] = pd.to_datetime(df['Date'], dayfirst=True, errors='coerce')
     df['District Name'] = df['District Name'].str.strip().str.lower()
     df['Commodity'] = df['Commodity'].str.strip().str.lower()
@@ -40,7 +47,8 @@ df = load_data()
 # --- TITLE ---
 col1, col2 = st.columns([0.10, 0.88])
 with col1:
-    st.image("logo.png")
+    if os.path.exists(logo_path):
+        st.image(logo_path)
 with col2:
     st.markdown("<h1 style='color:#004e92;text-align:center'> FARMSIGHT Crop & Weather Dashboard</h1>", unsafe_allow_html=True)
 
@@ -63,12 +71,23 @@ date_range = st.sidebar.date_input(
     max_value=df['Date'].max()
 )
 
+if isinstance(date_range, (list, tuple)) and len(date_range) == 2:
+    start_date, end_date = date_range
+elif isinstance(date_range, (list, tuple)) and len(date_range) == 1:
+    start_date = end_date = date_range[0]
+else:
+    start_date, end_date = df['Date'].min(), df['Date'].max()
+
 df_filtered = df[
     (df['District Name'] == selected_district) &
     (df['Commodity'] == selected_crop) &
-    (df['Date'] >= pd.to_datetime(date_range[0])) &
-    (df['Date'] <= pd.to_datetime(date_range[1]))
+    (df['Date'] >= pd.to_datetime(start_date)) &
+    (df['Date'] <= pd.to_datetime(end_date))
 ].sort_values('Date')
+
+if df_filtered.empty:
+    st.warning("⚠️ No records found for the selected combination of district, crop, and dates. Please adjust the filters.")
+    st.stop()
 
 # --- SUMMARY METRICS ---
 with st.container():
