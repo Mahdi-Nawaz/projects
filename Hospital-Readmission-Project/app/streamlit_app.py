@@ -253,24 +253,24 @@ elif page == "📊 Data Analytics":
     with tab1:
         img_path = os.path.join(plot_dir, "01_eda_overview.png")
         if os.path.exists(img_path):
-            st.image(img_path, caption="Exploratory Data Analysis Overview", use_column_width=True)
+            st.image(img_path, caption="Exploratory Data Analysis Overview", use_container_width=True)
         else:
             st.warning("Plot not found. Please run ml_pipeline.py first.")
 
     with tab2:
         img_path = os.path.join(plot_dir, "02_correlation_heatmap.png")
         if os.path.exists(img_path):
-            st.image(img_path, caption="Feature Correlation Heatmap", use_column_width=True)
+            st.image(img_path, caption="Feature Correlation Heatmap", use_container_width=True)
 
     with tab3:
         img_path = os.path.join(plot_dir, "03_model_evaluation.png")
         if os.path.exists(img_path):
-            st.image(img_path, caption="Model Evaluation – All Models", use_column_width=True)
+            st.image(img_path, caption="Model Evaluation – All Models", use_container_width=True)
 
     with tab4:
         img_path = os.path.join(plot_dir, "04_feature_importance.png")
         if os.path.exists(img_path):
-            st.image(img_path, caption="Feature Importance (Random Forest)", use_column_width=True)
+            st.image(img_path, caption="Feature Importance (Random Forest)", use_container_width=True)
 
     # Live dataset stats
     st.divider()
